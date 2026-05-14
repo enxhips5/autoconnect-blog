@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "sample-article-en",
+    "lang": "en",
+    "groupId": "sample-article",
+    "title": "Sample Dynamic Article",
+    "excerpt": "This is a sample article to verify the dynamic blog system works. Replace with your real content.",
+    "tag": "Travel",
+    "image": "/images/blog-albania-roads.jpg",
+    "datePublished": "2025-05-14",
+    "readingTime": 4
+  }
+]
