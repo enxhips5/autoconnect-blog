@@ -9,6 +9,9 @@ Push JSON files here → articles appear on the site within 60 minutes (or insta
 
 ```
 index.json                        ← manifest: one entry per article per locale
+images/                           ← blog images stored here
+  beach-ksamil.jpg
+  albania-roads.jpg
 content/
   en/slug-in-english.json
   it/slug-in-italian.json
@@ -30,7 +33,7 @@ content/
   "title": "Best Beaches in Albania for 2025",
   "excerpt": "Short description, 150 chars max. Used in cards and meta description.",
   "tag": "Travel",
-  "image": "/images/your-image.jpg",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/your-image.jpg",
   "datePublished": "2025-06-01",
   "dateModified": "2025-06-01",
   "readingTime": 5,
@@ -64,7 +67,7 @@ content/
 **Rules:**
 - `slug` must be unique per locale and URL-safe (lowercase, hyphens only)
 - `groupId` links the same article across languages — use the same value for all translations of one article
-- `image` path is relative to the main app's `public/` folder — add new images to `autoconnect-rental/public/images/`
+- `image` — use the full GitHub raw URL: `https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/your-image.jpg` — upload the image to the `images/` folder in this repo first
 - `readingTime` is an integer (minutes)
 - `sections` can have 2–7 items; inline CTA is auto-inserted after the second section
 - `excerpt` max 160 chars for SEO
@@ -86,7 +89,7 @@ Add one object per article per locale:
   "title": "Best Beaches in Albania for 2025",
   "excerpt": "Short description, 150 chars max.",
   "tag": "Travel",
-  "image": "/images/your-image.jpg",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/your-image.jpg",
   "datePublished": "2025-06-01",
   "readingTime": 5
 }
