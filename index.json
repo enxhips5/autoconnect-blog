@@ -65,72 +65,70 @@
     "datePublished": "2026-05-14",
     "readingTime": 5
   },
-  [
-    {
-      "slug": "5-things-to-know-rent-a-car-tirana-airport",
-      "lang": "en",
-      "groupId": "tirana-airport-car-rental-guide",
-      "title": "Rent a Car in Tirana Airport: 5 Things to Know First",
-      "excerpt": "Planning an Albanian road trip? Here are 5 things you must know before you rent a car in Tirana Airport to save money and avoid hidden fees.",
-      "tag": "Tips",
-      "image": "/images/blog-albania-roads.jpg",
-      "datePublished": "2026-05-19",
-      "readingTime": 4
-    },
-    {
-      "slug": "5-cose-da-sapere-rent-a-car-in-tirana-airport",
-      "lang": "it",
-      "groupId": "tirana-airport-car-rental-guide",
-      "title": "Rent a car in Tirana Airport: 5 cose da sapere prima",
-      "excerpt": "Stai pianificando un viaggio in Albania? Scopri le 5 cose fondamentali prima di scegliere il servizio rent a car in Tirana Airport per evitare sorprese.",
-      "tag": "Tips",
-      "image": "/images/blog-albania-roads.jpg",
-      "datePublished": "2026-05-19",
-      "readingTime": 4
-    },
-    {
-      "slug": "5-cosas-que-saber-rent-a-car-in-tirana-airport",
-      "lang": "es",
-      "groupId": "tirana-airport-car-rental-guide",
-      "title": "Rent a car in Tirana Airport: 5 consejos clave",
-      "excerpt": "Planifica tu viaje por Albania con estos 5 consejos esenciales antes de elegir tu servicio de Rent a car in Tirana Airport sin cargos ocultos.",
-      "tag": "Tips",
-      "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
-      "datePublished": "2026-05-19",
-      "readingTime": 4
-    },
-    {
-      "slug": "5-dinge-die-sie-wissen-muessen-rent-a-car-in-tirana-airport",
-      "lang": "de",
-      "groupId": "tirana-airport-car-rental-guide",
-      "title": "Rent a car in Tirana Airport: 5 wichtige Tipps vorab",
-      "excerpt": "Planen Sie einen Roadtrip durch Albanien? Hier sind 5 Dinge, die Sie wissen müssen, bevor Sie ein Auto mieten oder nach Rent a car in Tirana Airport suchen.",
-      "tag": "Tips",
-      "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
-      "datePublished": "2026-05-19",
-      "readingTime": 4
-    },
-    {
-      "slug": "5-choses-a-savoir-rent-a-car-in-tirana-airport",
-      "lang": "fr",
-      "groupId": "tirana-airport-car-rental-guide",
-      "title": "Rent a car in Tirana Airport : 5 conseils essentiels",
-      "excerpt": "Vous préparez un road trip en Albanie ? Découvrez les 5 conseils indispensables avant de choisir votre service de rent a car in Tirana Airport sans frais cachés.",
-      "tag": "Tips",
-      "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
-      "datePublished": "2026-05-19",
-      "readingTime": 4
-    },
-    {
-      "slug": "5-gjerat-qe-duhet-te-dini-rent-a-car-in-tirana-airport",
-      "lang": "sq",
-      "groupId": "tirana-airport-car-rental-guide",
-      "title": "Rent a car in Tirana Airport: 5 Gjërat që Duhet të Dini",
-      "excerpt": "Po planifikoni një udhëtim në Shqipëri? Zbuloni 5 gjërat thelbësore që duhet të dini para se të merrni një makinë me qira në Rinas për të shmangur kostot e fshehura.",
-      "tag": "Këshilla",
-      "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
-      "datePublished": "2026-05-19",
-      "readingTime": 4
-    }
-
+  {
+    "slug": "5-things-to-know-rent-a-car-tirana-airport",
+    "lang": "en",
+    "groupId": "tirana-airport-car-rental-guide",
+    "title": "Rent a Car in Tirana Airport: 5 Things to Know First",
+    "excerpt": "Planning an Albanian road trip? Here are 5 things you must know before you rent a car in Tirana Airport to save money and avoid hidden fees.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/blog-albania-roads.jpg",
+    "datePublished": "2026-05-19",
+    "readingTime": 4
+  },
+  {
+    "slug": "5-cose-da-sapere-rent-a-car-in-tirana-airport",
+    "lang": "it",
+    "groupId": "tirana-airport-car-rental-guide",
+    "title": "Rent a car in Tirana Airport: 5 cose da sapere prima",
+    "excerpt": "Stai pianificando un viaggio in Albania? Scopri le 5 cose fondamentali prima di scegliere il servizio rent a car in Tirana Airport per evitare sorprese.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/blog-albania-roads.jpg",
+    "datePublished": "2026-05-19",
+    "readingTime": 4
+  },
+  {
+    "slug": "5-cosas-que-saber-rent-a-car-in-tirana-airport",
+    "lang": "es",
+    "groupId": "tirana-airport-car-rental-guide",
+    "title": "Rent a car in Tirana Airport: 5 consejos clave",
+    "excerpt": "Planifica tu viaje por Albania con estos 5 consejos esenciales antes de elegir tu servicio de Rent a car in Tirana Airport sin cargos ocultos.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
+    "datePublished": "2026-05-19",
+    "readingTime": 4
+  },
+  {
+    "slug": "5-dinge-die-sie-wissen-muessen-rent-a-car-in-tirana-airport",
+    "lang": "de",
+    "groupId": "tirana-airport-car-rental-guide",
+    "title": "Rent a car in Tirana Airport: 5 wichtige Tipps vorab",
+    "excerpt": "Planen Sie einen Roadtrip durch Albanien? Hier sind 5 Dinge, die Sie wissen müssen, bevor Sie ein Auto mieten oder nach Rent a car in Tirana Airport suchen.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
+    "datePublished": "2026-05-19",
+    "readingTime": 4
+  },
+  {
+    "slug": "5-choses-a-savoir-rent-a-car-in-tirana-airport",
+    "lang": "fr",
+    "groupId": "tirana-airport-car-rental-guide",
+    "title": "Rent a car in Tirana Airport : 5 conseils essentiels",
+    "excerpt": "Vous préparez un road trip en Albanie ? Découvrez les 5 conseils indispensables avant de choisir votre service de rent a car in Tirana Airport sans frais cachés.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
+    "datePublished": "2026-05-19",
+    "readingTime": 4
+  },
+  {
+    "slug": "5-gjerat-qe-duhet-te-dini-rent-a-car-in-tirana-airport",
+    "lang": "sq",
+    "groupId": "tirana-airport-car-rental-guide",
+    "title": "Rent a car in Tirana Airport: 5 Gjërat që Duhet të Dini",
+    "excerpt": "Po planifikoni një udhëtim në Shqipëri? Zbuloni 5 gjërat thelbësore që duhet të dini para se të merrni një makinë me qira në Rinas për të shmangur kostot e fshehura.",
+    "tag": "Këshilla",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
+    "datePublished": "2026-05-19",
+    "readingTime": 4
+  }
 ]
