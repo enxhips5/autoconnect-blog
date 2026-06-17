@@ -1,5 +1,71 @@
 [
   {
+    "slug": "best-beaches-albania-car-tia",
+    "lang": "en",
+    "groupId": "best-albanian-beaches-by-car",
+    "title": "Explore the Best Beaches in Albania by Car from TIA",
+    "excerpt": "Discover Albania’s Riviera by rental car from Tirana Airport, with driving distances, road tips and the top beach spots for a relaxed coastal adventure.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-albanian-beaches-by-car.jpg",
+    "datePublished": "2026-06-17",
+    "readingTime": 3
+  },
+  {
+    "slug": "migliori-spiagge-albania-auto-tia",
+    "lang": "it",
+    "groupId": "best-albanian-beaches-by-car",
+    "title": "Le spiagge più belle dell’Albania da raggiungere in auto da TIA",
+    "excerpt": "Scopri le spiagge dell’Albania con un’auto a noleggio da Tirana: distanze, consigli di viaggio e le località balneari più affascinanti per una vacanza perfetta.",
+    "tag": "Destinations",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-albanian-beaches-by-car.jpg",
+    "datePublished": "2026-06-17",
+    "readingTime": 3
+  },
+  {
+    "slug": "meilleures-plages-albanie-voiture-tia",
+    "lang": "fr",
+    "groupId": "best-albanian-beaches-by-car",
+    "title": "Les plus belles plages d’Albanie accessibles en voiture depuis TIA",
+    "excerpt": "Explorez la Riviera albanaise en voiture de location depuis l’aéroport de Tirana : distances, conseils de conduite et spots incontournables pour des vacances b…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-albanian-beaches-by-car.jpg",
+    "datePublished": "2026-06-17",
+    "readingTime": 3
+  },
+  {
+    "slug": "beste-strandziele-albanien-mietwagen-tia",
+    "lang": "de",
+    "groupId": "best-albanian-beaches-by-car",
+    "title": "Albaniens beste Strände mit Mietwagen ab Tirana Flughafen",
+    "excerpt": "Entdecke Albaniens Riviera mit dem Mietwagen ab TIA: Fahrstrecken, Tipps und die schönsten Strände für einen entspannten Küstenurlaub.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-albanian-beaches-by-car.jpg",
+    "datePublished": "2026-06-17",
+    "readingTime": 3
+  },
+  {
+    "slug": "playas-secretas-albania-riviera-alquiler-coche-tia",
+    "lang": "es",
+    "groupId": "best-albanian-beaches-by-car",
+    "title": "Conduce a las mejores playas de Albania desde el aeropuerto de Tirana",
+    "excerpt": "Descubre la Riviera albanesa al volante de un coche de alquiler desde el aeropuerto de Tirana. Rutas, consejos y playas imprescindibles para unas vacaciones co…",
+    "tag": "Destinations",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-albanian-beaches-by-car.jpg",
+    "datePublished": "2026-06-17",
+    "readingTime": 3
+  },
+  {
+    "slug": "plazhet-me-te-mira-shqiperi-me-makine-nga-tia",
+    "lang": "sq",
+    "groupId": "best-albanian-beaches-by-car",
+    "title": "Eksploroni Plazhet Më të Mira të Shqipërisë me Makinë nga TIA",
+    "excerpt": "Zbuloni Rivierën Shqiptare me makinë me qira nga Aeroporti i Tiranës. Udhëzues për distanca, këshilla rrugore dhe vendet më të mira për një aventurë bregdetare.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-albanian-beaches-by-car.jpg",
+    "datePublished": "2026-06-17",
+    "readingTime": 3
+  },
+  {
     "slug": "top-5-beaches-albania-car-from-tirana",
     "lang": "en",
     "groupId": "top-5-beaches-albania-car",
@@ -105,28 +171,6 @@
     "title": "Rent a car in Tirana Airport: 5 wichtige Tipps vorab",
     "excerpt": "Planen Sie einen Roadtrip durch Albanien? Hier sind 5 Dinge, die Sie wissen müssen, bevor Sie ein Auto mieten oder nach Rent a car in Tirana Airport suchen.",
     "tag": "Tips",
-    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
-    "datePublished": "2026-05-19",
-    "readingTime": 4
-  },
-  {
-    "slug": "5-choses-a-savoir-rent-a-car-in-tirana-airport",
-    "lang": "fr",
-    "groupId": "tirana-airport-car-rental-guide",
-    "title": "Rent a car in Tirana Airport : 5 conseils essentiels",
-    "excerpt": "Vous préparez un road trip en Albanie ? Découvrez les 5 conseils indispensables avant de choisir votre service de rent a car in Tirana Airport sans frais cachés.",
-    "tag": "Tips",
-    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
-    "datePublished": "2026-05-19",
-    "readingTime": 4
-  },
-  {
-    "slug": "5-gjerat-qe-duhet-te-dini-rent-a-car-in-tirana-airport",
-    "lang": "sq",
-    "groupId": "tirana-airport-car-rental-guide",
-    "title": "Rent a car in Tirana Airport: 5 Gjërat që Duhet të Dini",
-    "excerpt": "Po planifikoni një udhëtim në Shqipëri? Zbuloni 5 gjërat thelbësore që duhet të dini para se të merrni një makinë me qira në Rinas për të shmangur kostot e fshehura.",
-    "tag": "Këshilla",
     "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/rent-car-albania.jpg",
     "datePublished": "2026-05-19",
     "readingTime": 4
