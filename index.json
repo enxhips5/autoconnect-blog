@@ -1,5 +1,71 @@
 [
   {
+    "slug": "albanian-riviera-trip-guide-hidden-swims",
+    "lang": "en",
+    "groupId": "albanian-riviera-road-trip-beaches",
+    "title": "Albanian Riviera Trip Guide: 5 Hidden Swims Near Himarë",
+    "excerpt": "Discover five off‑the‑beaten swimming coves near Himarë on the Albanian Riviera, with a practical road‑trip route, driving tips and car‑rental advice.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-road-trip-beaches.jpg",
+    "datePublished": "2026-06-18",
+    "readingTime": 3
+  },
+  {
+    "slug": "riviera-albanese-guida-baia-nascosta",
+    "lang": "it",
+    "groupId": "albanian-riviera-road-trip-beaches",
+    "title": "Guida Riviera Albanese: 5 Baine Segrete vicino a Himarë",
+    "excerpt": "Scopri cinque baie nascoste per nuotare vicino a Himarë sulla Riviera Albanese, con itinerario, consigli di guida e noleggio auto.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-road-trip-beaches.jpg",
+    "datePublished": "2026-06-18",
+    "readingTime": 3
+  },
+  {
+    "slug": "guide-riviera-albanaise-criques-secretes-himare",
+    "lang": "fr",
+    "groupId": "albanian-riviera-road-trip-beaches",
+    "title": "Guide Riviera albanaise : 5 criques secrètes près de Himarë",
+    "excerpt": "Découvrez cinq criques méconnues près de Himarë sur la Riviera albanaise. Itinéraire, conseils de conduite et location de voiture pour votre road trip.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-road-trip-beaches.jpg",
+    "datePublished": "2026-06-18",
+    "readingTime": 3
+  },
+  {
+    "slug": "albanische-riviera-versteckte-badestellen",
+    "lang": "de",
+    "groupId": "albanian-riviera-road-trip-beaches",
+    "title": "Albanische Riviera: 5 versteckte Badestellen bei Himarë",
+    "excerpt": "Entdecken Sie fünf wenig besuchte Badebuchten bei Himarë an der albanischen Riviera, inkl. praktischer Route, Fahrhinweise und Mietwagen‑Tipps.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-road-trip-beaches.jpg",
+    "datePublished": "2026-06-18",
+    "readingTime": 3
+  },
+  {
+    "slug": "guia-riviera-albanesa-playas-ocultas-himare",
+    "lang": "es",
+    "groupId": "albanian-riviera-road-trip-beaches",
+    "title": "Guía de la Riviera Albanesa: 5 calas ocultas cerca de Himarë",
+    "excerpt": "Descubre cinco calas vírgenes cerca de Himarë en la Riviera Albanesa con esta ruta en coche, consejos de conducción y recomendaciones de alquiler.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-road-trip-beaches.jpg",
+    "datePublished": "2026-06-18",
+    "readingTime": 3
+  },
+  {
+    "slug": "udhezues-riviera-shqiptare-plazhe-fshehura",
+    "lang": "sq",
+    "groupId": "albanian-riviera-road-trip-beaches",
+    "title": "Udhëzues për Riviera Shqiptare: 5 Plazhe të Fshehura pranë Himarës",
+    "excerpt": "Zbuloni pesë vende të fshehura për not në afër Himarës në Rivierën Shqiptare, me udhëzime rrugore, këshilla drejtimi dhe këshilla për marrjen e makinës me qira.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-road-trip-beaches.jpg",
+    "datePublished": "2026-06-18",
+    "readingTime": 3
+  },
+  {
     "slug": "albania-best-beaches-by-car",
     "lang": "en",
     "groupId": "best-beaches-albania-car",
