@@ -1,5 +1,71 @@
 [
   {
+    "slug": "best-beaches-albania-by-car",
+    "lang": "en",
+    "groupId": "best-beaches-albania-by-car",
+    "title": "Best Beaches in Albania by Car – Road Trip from Tirana",
+    "excerpt": "Discover how to drive from Tirana Airport to Albania's turquoise Riviera, with practical tips on road conditions, parking and the top beaches reachable by car.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-beaches-albania-by-car.jpg",
+    "datePublished": "2026-06-21",
+    "readingTime": 4
+  },
+  {
+    "slug": "migliori-spiagge-albania-auto",
+    "lang": "it",
+    "groupId": "best-beaches-albania-by-car",
+    "title": "Le migliori spiagge in Albania in auto: Road trip da Tirana",
+    "excerpt": "Esplora la Riviera albanese partendo da Tirana. Consigli su strade, parcheggi e le spiagge più belle raggiungibili comodamente con un'auto a noleggio.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-beaches-albania-by-car.jpg",
+    "datePublished": "2026-06-21",
+    "readingTime": 4
+  },
+  {
+    "slug": "meilleures-plages-albanie-en-voiture",
+    "lang": "fr",
+    "groupId": "best-beaches-albania-by-car",
+    "title": "Les meilleures plages d'Albanie en voiture : de Tirana à la Riviera",
+    "excerpt": "Découvrez comment rejoindre la Riviera albanaise depuis l'aéroport de Tirana : conseils de route, parkings et plages accessibles avec AutoConnect Rental.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-beaches-albania-by-car.jpg",
+    "datePublished": "2026-06-21",
+    "readingTime": 4
+  },
+  {
+    "slug": "beste-strande-albanien-mit-auto",
+    "lang": "de",
+    "groupId": "best-beaches-albania-by-car",
+    "title": "Beste Strände Albaniens mit dem Auto – Roadtrip von Tirana",
+    "excerpt": "Erfahren Sie, wie Sie vom Flughafen Tirana zur türkisen Riviera fahren – mit Infos zu Straßen, Parkplätzen und den besten Stränden, die Sie mit dem Auto erreic…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-beaches-albania-by-car.jpg",
+    "datePublished": "2026-06-21",
+    "readingTime": 3
+  },
+  {
+    "slug": "mejores-playas-albania-en-coche",
+    "lang": "es",
+    "groupId": "best-beaches-albania-by-car",
+    "title": "Mejores playas de Albania en coche: Ruta desde Tirana",
+    "excerpt": "Descubre cómo ir de Tirana a la Riviera albanesa con consejos sobre carreteras, aparcamiento y las mejores playas accesibles con tu coche de alquiler.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-beaches-albania-by-car.jpg",
+    "datePublished": "2026-06-21",
+    "readingTime": 4
+  },
+  {
+    "slug": "plazhet-me-te-bukura-ne-shqiperi-me-makine",
+    "lang": "sq",
+    "groupId": "best-beaches-albania-by-car",
+    "title": "Plazhet më të bukura në Shqipëri me makinë – Guida e Rivierës",
+    "excerpt": "Zbuloni si të udhëtoni nga Tirana drejt Rivierës Shqiptare me makinë. Këshilla praktike për rrugët, parkimin dhe plazhet më të bukura që mund të vizitoni.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/best-beaches-albania-by-car.jpg",
+    "datePublished": "2026-06-21",
+    "readingTime": 4
+  },
+  {
     "slug": "albanian-riviera-trip-guide-hidden-swims",
     "lang": "en",
     "groupId": "albanian-riviera-road-trip-beaches",
