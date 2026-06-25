@@ -1,5 +1,71 @@
 [
   {
+    "slug": "beyond-riviera-northern-albania-beaches-by-car",
+    "lang": "en",
+    "groupId": "northern-albania-beaches-car",
+    "title": "Beyond the Riviera: Northern Albania Beaches by Car Guide",
+    "excerpt": "Discover sandy, family‑friendly beaches north of the Riviera. Pick up a car at TIA airport and explore Shëngjin, Velipojë, Lezhë and hidden dunes in just a few…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/northern-albania-beaches-car.jpg",
+    "datePublished": "2026-06-25",
+    "readingTime": 3
+  },
+  {
+    "slug": "oltre-la-riviera-guida-alle-spiagge-del-nord-albania-in-auto",
+    "lang": "it",
+    "groupId": "northern-albania-beaches-car",
+    "title": "Spiagge del Nord Albania in auto: oltre la Riviera",
+    "excerpt": "Scopri le spiagge sabbiose dell'Albania del nord. Noleggia un'auto a Tirana (TIA) e visita Shëngjin, Velipojë e Lezhë, ideali per famiglie e relax.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/northern-albania-beaches-car.jpg",
+    "datePublished": "2026-06-25",
+    "readingTime": 3
+  },
+  {
+    "slug": "plages-du-nord-albanie-en-voiture",
+    "lang": "fr",
+    "groupId": "northern-albania-beaches-car",
+    "title": "Plages du Nord de l'Albanie : guide complet en voiture",
+    "excerpt": "Évitez la foule de la Riviera. Louez une voiture à l'aéroport de Tirana et explorez les plages de sable de Shëngjin et Velipojë en moins de deux heures.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/northern-albania-beaches-car.jpg",
+    "datePublished": "2026-06-25",
+    "readingTime": 4
+  },
+  {
+    "slug": "nordalbanien-straende-mit-dem-mietwagen",
+    "lang": "de",
+    "groupId": "northern-albania-beaches-car",
+    "title": "Nordalbaniens Strände: Guide für Shëngjin und Velipojë",
+    "excerpt": "Entdecken Sie die Sandstrände Nordalbaniens. Mit dem Mietwagen ab TIA erreichen Sie Shëngjin und Velipojë bequem für einen entspannten Familienurlaub.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/northern-albania-beaches-car.jpg",
+    "datePublished": "2026-06-25",
+    "readingTime": 3
+  },
+  {
+    "slug": "playas-norte-albania-coche",
+    "lang": "es",
+    "groupId": "northern-albania-beaches-car",
+    "title": "Playas del Norte de Albania en Coche: Más allá de la Riviera",
+    "excerpt": "Descubre playas de arena para familias al norte de Tirana. Alquila un coche en el aeropuerto TIA y explora Shëngjin y Velipojë con total libertad.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/northern-albania-beaches-car.jpg",
+    "datePublished": "2026-06-25",
+    "readingTime": 4
+  },
+  {
+    "slug": "plazhet-veriore-shengjin-velipoje-lezhe-udhezuese",
+    "lang": "sq",
+    "groupId": "northern-albania-beaches-car",
+    "title": "Plazhet veriore të Shëngjinit, Velipojës dhe Lezhës: udhëzues me maki…",
+    "excerpt": "Zbuloni plazhe me rërë të butë, ujëra të cekëta dhe ambiente familjare në veriun e Shqipërisë. Marrni makinën në TIA dhe eksploroni Shëngjin, Velipojë, Lezhë d…",
+    "tag": "Destinations",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/northern-albania-beaches-car.jpg",
+    "datePublished": "2026-06-25",
+    "readingTime": 3
+  },
+  {
     "slug": "best-beaches-albania-by-car",
     "lang": "en",
     "groupId": "best-beaches-albania-by-car",
