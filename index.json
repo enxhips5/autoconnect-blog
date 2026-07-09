@@ -1,5 +1,71 @@
 [
   {
+    "slug": "albania-beach-road-trip-4-riviera-ruins",
+    "lang": "en",
+    "groupId": "castles-and-coves-road-trip",
+    "title": "Albania Beach Road Trip: 4 Riviera Spots with Ancient Ruins",
+    "excerpt": "Discover four stunning Albanian Riviera beaches where ancient castles and ruins meet crystal‑clear waters, all reachable on a self‑drive albania beach road tri…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/castles-and-coves-road-trip.jpg",
+    "datePublished": "2026-07-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "viaggio-albania-spiagge-rovine-riviera",
+    "lang": "it",
+    "groupId": "castles-and-coves-road-trip",
+    "title": "Road Trip in Albania: 4 spiagge della Riviera tra storia e rovine",
+    "excerpt": "Scopri quattro spiagge della Riviera albanese dove castelli e rovine antiche incontrano acque cristalline, tutte raggiungibili con un'auto a noleggio.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/castles-and-coves-road-trip.jpg",
+    "datePublished": "2026-07-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "road-trip-plages-albanie-riviera-ruines",
+    "lang": "fr",
+    "groupId": "castles-and-coves-road-trip",
+    "title": "Road trip en Albanie : 4 plages de la Riviera et ruines antiques",
+    "excerpt": "Explorez 4 plages de la Riviera albanaise mêlant ruines antiques et eaux turquoise lors d'un road trip unique en voiture de location.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/castles-and-coves-road-trip.jpg",
+    "datePublished": "2026-07-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "albanien-roadtrip-strand-antike-ruinen",
+    "lang": "de",
+    "groupId": "castles-and-coves-road-trip",
+    "title": "Albanien Roadtrip: 4 Riviera-Strände mit antiken Ruinen",
+    "excerpt": "Entdecken Sie auf Ihrem Albanien-Roadtrip traumhafte Strände der Riviera, wo antike Ruinen auf kristallklares Wasser treffen. Perfekt im Mietwagen!",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/castles-and-coves-road-trip.jpg",
+    "datePublished": "2026-07-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "ruta-coche-albania-playas-ruinas",
+    "lang": "es",
+    "groupId": "castles-and-coves-road-trip",
+    "title": "Ruta en coche por Albania: 4 playas con ruinas antiguas",
+    "excerpt": "Descubre la Riviera albanesa: playas de aguas cristalinas y castillos históricos en una ruta en coche inolvidable. Explora Butrinto, Himarë y más.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/castles-and-coves-road-trip.jpg",
+    "datePublished": "2026-07-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "udha-rrugetimi-bregdetar-4-pika-riviera-shqiptare",
+    "lang": "sq",
+    "groupId": "castles-and-coves-road-trip",
+    "title": "Udhëtime në bregdetin shqiptar: 4 pika të Rivierës me rrënoja antike",
+    "excerpt": "Zbuloni katër plazhe të mrekullueshme të Rivierës shqiptare ku kështjellat dhe rrënojat antike takojnë ujërat e kthjellta, të arritshme me makinë nga Tirana.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/castles-and-coves-road-trip.jpg",
+    "datePublished": "2026-07-09",
+    "readingTime": 3
+  },
+  {
     "slug": "family-beaches-albania-by-car",
     "lang": "en",
     "groupId": "family-beaches-albania-by-car",

@@ -1,0 +1,57 @@
+{
+  "slug": "road-trip-plages-albanie-riviera-ruines",
+  "lang": "fr",
+  "groupId": "castles-and-coves-road-trip",
+  "title": "Road trip en Albanie : 4 plages de la Riviera et ruines antiques",
+  "excerpt": "Explorez 4 plages de la Riviera albanaise mêlant ruines antiques et eaux turquoise lors d'un road trip unique en voiture de location.",
+  "tag": "Guide",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/castles-and-coves-road-trip.jpg",
+  "datePublished": "2026-07-09",
+  "dateModified": "2026-07-09",
+  "readingTime": 3,
+  "keywords": [
+    "road trip plages albanie",
+    "Riviera albanaise",
+    "ruines historiques Albanie",
+    "location voiture aéroport de Tirana",
+    "route SH8 Albanie",
+    "parc national de Butrint"
+  ],
+  "intro": "Vous arrivez à l'aéroport international de Tirana ? Une voiture de location vous offre la liberté d'explorer la magnifique côte albanaise, entre plages ensoleillées et sites chargés d'histoire. Des forteresses médiévales perchées sur les falaises aux criques sauvages, la Riviera albanaise est un terrain de jeu idéal pour les voyageurs souhaitant combiner farniente et découvertes culturelles.",
+  "sections": [
+    {
+      "title": "Road trip en Albanie : de Tirana à Himarë",
+      "body": "Récupérez votre voiture de location chez AutoConnect Rental à l'aéroport de Tirana et prenez la direction du sud via l'A1 avant de rejoindre la spectaculaire route SH8 au niveau de Fier. Cette route de corniche longe la côte et offre des points de vue magnifiques sur la mer Ionienne à l'approche du col de Llogara. Après une descente sinueuse, votre premier arrêt historique est le château de Himarë, surplombant la plage principale de la ville. Depuis ses remparts, l'eau turquoise s'étend à perte de vue, le spot photo idéal avant de poursuivre votre road trip le long de la Riviera."
+    },
+    {
+      "title": "Le château de Porto Palermo et la crique cachée de Gjipe",
+      "body": "En quittant Himarë, suivez la SH8 sur environ 30 km jusqu'à Porto Palermo, une superbe baie abritant une forteresse ottomane du XIXe siècle. Les murs de pierre du château semblent surgir directement de l'eau turquoise, et un court sentier mène à une plage de galets paisible, parfaite pour une baignade. Reprenez ensuite la route vers l'est jusqu'au canyon de Gjipe. Un parking aménagé permet de laisser votre véhicule avant d'entamer une agréable randonnée de 15 à 20 minutes au milieu des falaises pour atteindre une plage de sable isolée, un véritable joyau caché."
+    },
+    {
+      "title": "Le parc national de Butrint près de Ksamil",
+      "body": "Depuis Gjipe, roulez vers le sud sur la SH8 sur environ 45 km pour atteindre Ksamil, célèbre pour ses îles et ses eaux translucides. À seulement 10 minutes de route à l'intérieur des terres se trouve le parc national de Butrint, un site classé au patrimoine mondial de l'UNESCO où se mêlent vestiges grecs, romains et byzantins face à la mer. Explorez le théâtre antique, la basilique et les remparts bien conservés. Le parc dispose d'aires de stationnement faciles à proximité de l'entrée. Après cette visite culturelle, détendez-vous sur les plages de sable blanc de Ksamil à seulement quelques minutes de là."
+    },
+    {
+      "title": "Le château de Sarandë et coucher de soleil à Borsh",
+      "body": "Pour la dernière étape de votre voyage, remontez vers le nord en admirant les falaises de Borsh avant de rejoindre Sarandë. Dominant la baie, le château de Sarandë (également appelé château de Lëkurësi) offre un panorama exceptionnel sur la ville, la mer Ionienne et l'île de Corfou au loin. Après la visite, descendez vers le littoral pour assister au superbe coucher de soleil sur la plage de Borsh, une immense étendue de sable doré. Le trajet de retour vers l'aéroport de Tirana via la SH8 et l'A1 prend environ 4 heures, l'occasion de vous remémorer ce voyage unique entre plages de rêve et siècles d'histoire."
+    }
+  ],
+  "tip": {
+    "title": "Conseil de pro : optez pour une voiture compacte avec GPS pour la SH8",
+    "body": "Réservez un véhicule compact et économique, doté d'un GPS à jour. La SH8 comporte plusieurs tronçons étroits et sinueux avec des changements de signalisation fréquents. Un navigateur fiable vous permettra de conduire en toute sérénité et de trouver facilement les accès et parkings des sites historiques."
+  },
+  "faq": [
+    {
+      "question": "Peut-on se rendre au parc national de Butrint en voiture ?",
+      "answer": "Oui, tout à fait. Depuis Ksamil, un court trajet de 10 minutes en voiture vous mène directement à l'entrée principale du parc national, où un parking est à la disposition des visiteurs."
+    },
+    {
+      "question": "Quels sont les meilleurs arrêts historiques sur la Riviera albanaise ?",
+      "answer": "Les sites incontournables incluent le château de Himarë, la forteresse de Porto Palermo, les vestiges de Butrint et le château de Lëkurësi à Sarandë, chacun offrant des points de vue uniques sur la côte."
+    },
+    {
+      "question": "Est-il indispensable de louer une voiture pour visiter la côte albanaise ?",
+      "answer": "Même si des bus circulent entre les villes, la voiture de location reste la solution idéale pour accéder librement aux criques secrètes comme Gjipe et planifier vos arrêts historiques à votre propre rythme."
+    }
+  ]
+}
