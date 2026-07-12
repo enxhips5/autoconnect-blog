@@ -1,5 +1,71 @@
 [
   {
+    "slug": "golden-hour-drive-albanian-riviera-beaches",
+    "lang": "en",
+    "groupId": "albanian-riviera-sunset-beaches-by-car",
+    "title": "Golden Hour Drive to Albanian Riviera Beaches Before Sunset",
+    "excerpt": "Discover the top five Albanian Riviera beaches perfect for a sunset drive, with practical tips on routes, parking, and timing for EU travelers.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-sunset-beaches-by-car.jpg",
+    "datePublished": "2026-07-12",
+    "readingTime": 3
+  },
+  {
+    "slug": "tramonto-riviera-albanese-auto",
+    "lang": "it",
+    "groupId": "albanian-riviera-sunset-beaches-by-car",
+    "title": "Tramonto in Riviera Albanese: I Migliori Posti in Auto",
+    "excerpt": "Scopri le spiagge della Riviera Albanese perfette per un giro al tramonto. Consigli su itinerari, parcheggi e tempi per viaggiatori europei.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-sunset-beaches-by-car.jpg",
+    "datePublished": "2026-07-12",
+    "readingTime": 3
+  },
+  {
+    "slug": "coucher-de-soleil-riviera-albanaise-voiture",
+    "lang": "fr",
+    "groupId": "albanian-riviera-sunset-beaches-by-car",
+    "title": "Riviera albanaise en voiture : les spots du coucher de soleil",
+    "excerpt": "Découvrez cinq plages incontournables de la Riviera albanaise pour admirer le coucher de soleil en voiture. Conseils d'itinéraires et de stationnement.",
+    "tag": "Destinations",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-sunset-beaches-by-car.jpg",
+    "datePublished": "2026-07-12",
+    "readingTime": 4
+  },
+  {
+    "slug": "golden-hour-albanische-riviera-straende",
+    "lang": "de",
+    "groupId": "albanian-riviera-sunset-beaches-by-car",
+    "title": "Golden Hour Tour: Die schönsten Strände der Albanischen Riviera",
+    "excerpt": "Entdecken Sie die besten Strände der Albanischen Riviera für den Sonnenuntergang. Tipps zu Routen, Parkplätzen und Timing für Ihre Mietwagen-Tour.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-sunset-beaches-by-car.jpg",
+    "datePublished": "2026-07-12",
+    "readingTime": 3
+  },
+  {
+    "slug": "ruta-atardecer-playas-riviera-albanesa",
+    "lang": "es",
+    "groupId": "albanian-riviera-sunset-beaches-by-car",
+    "title": "Ruta en coche al atardecer por la Riviera Albanesa",
+    "excerpt": "Descubre las mejores playas de la Riviera Albanesa para disfrutar del atardecer en coche. Consejos prácticos de ruta, aparcamiento y horarios.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-sunset-beaches-by-car.jpg",
+    "datePublished": "2026-07-12",
+    "readingTime": 4
+  },
+  {
+    "slug": "pervoja-e-gjithedites-ne-plazhet-e-rivieres-se-bregdetit-shqiptar",
+    "lang": "sq",
+    "groupId": "albanian-riviera-sunset-beaches-by-car",
+    "title": "Përvoja e gjithëdites: vozitje drejt plazheve të Rivierës Shqiptare",
+    "excerpt": "Zbuloni pesë plazhe të Rivierës Shqiptare të përshtatshme për vozitje gjatë orës së artë, me udhëzime praktike për rrugë, parkim dhe kohëzgjatje për turistë të…",
+    "tag": "Destinations",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-riviera-sunset-beaches-by-car.jpg",
+    "datePublished": "2026-07-12",
+    "readingTime": 4
+  },
+  {
     "slug": "albania-beach-road-trip-4-riviera-ruins",
     "lang": "en",
     "groupId": "castles-and-coves-road-trip",
