@@ -1,5 +1,71 @@
 [
   {
+    "slug": "vlore-coastal-highway-best-beaches-by-car",
+    "lang": "en",
+    "groupId": "vlore-beaches-by-car",
+    "title": "Explore Vlorë’s Coastal Highway: Best Beaches in Vlore by Car",
+    "excerpt": "Drive the stunning Vlorë coastal highway from Tirana and discover the four top beaches where the Adriatic meets the Ionian – perfect for a self‑drive day trip.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/vlore-beaches-by-car.jpg",
+    "datePublished": "2026-07-23",
+    "readingTime": 3
+  },
+  {
+    "slug": "valona-migliori-spiagge-auto-strada-costiera",
+    "lang": "it",
+    "groupId": "vlore-beaches-by-car",
+    "title": "Valona in auto: guida alle spiagge più belle della costa",
+    "excerpt": "Percorri la splendida strada costiera di Valona da Tirana e scopri le spiagge dove l'Adriatico incontra lo Ionio. Il tour perfetto con AutoConnect Rental.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/vlore-beaches-by-car.jpg",
+    "datePublished": "2026-07-23",
+    "readingTime": 3
+  },
+  {
+    "slug": "vlore-route-cotiere-meilleures-plages-voiture",
+    "lang": "fr",
+    "groupId": "vlore-beaches-by-car",
+    "title": "Route côtière de Vlorë : les plus belles plages en voiture",
+    "excerpt": "Parcourez la route côtière de Vlorë depuis Tirana et découvrez les plus belles plages de l'Adriatique à l'Ionienne en voiture de location.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/vlore-beaches-by-car.jpg",
+    "datePublished": "2026-07-23",
+    "readingTime": 3
+  },
+  {
+    "slug": "vlora-kuestenstrasse-beste-straende-mietwagen",
+    "lang": "de",
+    "groupId": "vlore-beaches-by-car",
+    "title": "Küstenstraße Vlora: Die besten Strände mit dem Auto entdecken",
+    "excerpt": "Entdecken Sie die Küstenstraße von Vlora. Finden Sie die schönsten Strände zwischen Adria und Ionischem Meer bequem mit dem Mietwagen ab Tirana.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/vlore-beaches-by-car.jpg",
+    "datePublished": "2026-07-23",
+    "readingTime": 2
+  },
+  {
+    "slug": "mejores-playas-vlore-en-coche-ruta",
+    "lang": "es",
+    "groupId": "vlore-beaches-by-car",
+    "title": "Las mejores playas de Vlorë en coche: guía de ruta",
+    "excerpt": "Conduce por la carretera costera de Vlorë desde Tirana y descubre calas increíbles donde se unen el Adriático y el Jónico. Ideal para un viaje en coche.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/vlore-beaches-by-car.jpg",
+    "datePublished": "2026-07-23",
+    "readingTime": 3
+  },
+  {
+    "slug": "plazhet-me-te-mira-ne-vlore-me-makine",
+    "lang": "sq",
+    "groupId": "vlore-beaches-by-car",
+    "title": "Plazhet më të mira në Vlorë: Udhëtim me makinë në bregdet",
+    "excerpt": "Zbuloni plazhet fantastike të Vlorës me makinë. Nga rëra e Adriatikut te guralecët e Jonit, planifikoni udhëtimin tuaj ditor duke nisur nga Tirana.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/vlore-beaches-by-car.jpg",
+    "datePublished": "2026-07-23",
+    "readingTime": 3
+  },
+  {
     "slug": "beach-hopping-albania-car-3day-himare-ksamil",
     "lang": "en",
     "groupId": "himare-to-ksamil-beach-hopping",

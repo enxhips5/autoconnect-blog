@@ -1,0 +1,56 @@
+{
+  "slug": "vlore-route-cotiere-meilleures-plages-voiture",
+  "lang": "fr",
+  "groupId": "vlore-beaches-by-car",
+  "title": "Route côtière de Vlorë : les plus belles plages en voiture",
+  "excerpt": "Parcourez la route côtière de Vlorë depuis Tirana et découvrez les plus belles plages de l'Adriatique à l'Ionienne en voiture de location.",
+  "tag": "Guide",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/vlore-beaches-by-car.jpg",
+  "datePublished": "2026-07-23",
+  "dateModified": "2026-07-23",
+  "readingTime": 3,
+  "keywords": [
+    "plages de Vlorë en voiture",
+    "route côtière Vlorë",
+    "plages de la Riviera albanaise",
+    "location de voiture Tirana",
+    "mer Adriatique Ionienne"
+  ],
+  "intro": "Vous arrivez à l'aéroport de Tirana Rinas ? Un court trajet vers le sud vous mène à Vlorë, le point de rencontre entre les plages de sable de l'Adriatique et les criques de galets de la mer Ionienne. Avec une voiture de location chez AutoConnect Rental, parcourez la route côtière à votre rythme et passez d'une plage à l'autre en toute liberté.",
+  "sections": [
+    {
+      "title": "Les plages de sable de l'Adriatique Nord",
+      "body": "La partie nord du littoral de Vlorë propose de larges plages de sable doré, idéales pour les familles et les amateurs de farniente. À commencer par la célèbre plage de Zvernec, le sable fin s'étend sur plusieurs kilomètres, offrant un espace idéal pour se détendre. Comme cette rive adriatique est plate, le stationnement y est aisé et la route longe directement le rivage, ce qui en fait une première étape parfaite lors de votre itinéraire en voiture."
+    },
+    {
+      "title": "Criques de galets de la mer Ionienne : Drymades et au-delà",
+      "body": "Après traversé le centre-ville, la route s'élève et serpente à l'approche de la mer Ionienne, où les falaises abruptes révèlent des criques de galets préservées. La plage de Drymades, située un peu plus au sud, est un incontournable avec ses eaux cristallines, ses formations rocheuses spectaculaires et son atmosphère paisible. Un court détour vous mènera aussi vers les côtes de Radhimë et Borsh, accessibles par des routes sinueuses offrant des panoramas exceptionnels sur la mer."
+    },
+    {
+      "title": "Conseils de conduite sur la route côtière",
+      "body": "Bien que spectaculaire, la route côtière exige une attention constante. Certains tronçons étroits à flanc de falaise nécessitent de rouler à allure modérée et de savoir utiliser les zones d'évitement pour croiser d'autres véhicules. Les stations-services se font plus rares entre Vlorë et les criques du sud, pensez donc à faire le plein en ville. Louer votre véhicule à l'aéroport vous permet d'éviter les frais d'un taxi aller simple d'environ 25 € vers Drymades et de vous déplacer en toute autonomie."
+    },
+    {
+      "title": "Où stationner et faire une pause",
+      "body": "La plupart des grandes plages disposent de petits espaces de stationnement à proximité ; arrivez tôt en été pour trouver une place. Du côté de Zvernec, vous trouverez des bancs ombragés et des kiosques, tandis que Drymades propose des bars de plage et des commodités de base. Pensez à emporter de l'eau, de la crème solaire et des collations, car les services sont limités dans les criques les plus isolées. Une halte dans une konoba locale (taverne) complétera idéalement votre journée."
+    }
+  ],
+  "tip": {
+    "title": "Partez tôt pour éviter l'affluence",
+    "body": "Prenez la route avant 9 heures du matin. Vous éviterez ainsi le trafic de la mi-journée sur les portions de falaise les plus étroites tout en profitant de températures plus fraîches pour votre itinéraire."
+  },
+  "faq": [
+    {
+      "question": "Est-il facile d'accéder aux plages au sud de Vlorë en voiture ?",
+      "answer": "Oui, les plages du sud sont accessibles par la route côtière principale. Cependant, la chaussée devient plus étroite et sinueuse, ce qui rend l'usage d'une voiture de location bien adaptée indispensable pour circuler sereinement."
+    },
+    {
+      "question": "Les plages de Vlorë sont-elles de sable ou de galets ?",
+      "answer": "Les plages situées au nord de la ville, côté Adriatique, sont principalement de sable fin. En revanche, les criques ioniennes du sud sont majoritairement composées de galets et de rochers, offrant des paysages sauvages très appréciés."
+    },
+    {
+      "question": "Combien coûte un trajet en taxi entre Vlorë et la plage de Drymades ?",
+      "answer": "Un trajet aller simple en taxi de Vlorë à Drymades coûte généralement autour de 25 €. Louer une voiture s'avère donc bien plus avantageux pour explorer librement les différentes criques de la région."
+    }
+  ]
+}
