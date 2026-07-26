@@ -1,5 +1,71 @@
 [
   {
+    "slug": "7-day-south-albania-road-trip-itinerary",
+    "lang": "en",
+    "groupId": "7-day-south-albania-road-trip",
+    "title": "7-Day South Albania Road Trip: Summer Route Guide",
+    "excerpt": "Plan your perfect 7-day South Albania road trip from Tirana Airport. Discover driving times, route tips, and top stops like Berat, Himarë, and Gjirokastër.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/7-day-south-albania-road-trip.jpg",
+    "datePublished": "2026-07-26",
+    "readingTime": 3
+  },
+  {
+    "slug": "itinerario-albania-del-sud-7-giorni",
+    "lang": "it",
+    "groupId": "7-day-south-albania-road-trip",
+    "title": "Itinerario di 7 Giorni in Albania del Sud in Auto",
+    "excerpt": "Organizza il tuo viaggio di 7 giorni nell'Albania del Sud da Tirana. Scopri tempi di guida e tappe come Berat, Himarë e Gjirokastër.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/7-day-south-albania-road-trip.jpg",
+    "datePublished": "2026-07-26",
+    "readingTime": 4
+  },
+  {
+    "slug": "road-trip-7-jours-albanie-du-sud-itineraire",
+    "lang": "fr",
+    "groupId": "7-day-south-albania-road-trip",
+    "title": "Road Trip de 7 jours en Albanie du Sud : Guide d'été",
+    "excerpt": "Planifiez votre road trip de 7 jours en Albanie du Sud depuis l'aéroport de Tirana. Découvrez nos conseils de route vers Berat, Himarë et Gjirokastër.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/7-day-south-albania-road-trip.jpg",
+    "datePublished": "2026-07-26",
+    "readingTime": 4
+  },
+  {
+    "slug": "7-tage-suedalbanien-roadtrip-route",
+    "lang": "de",
+    "groupId": "7-day-south-albania-road-trip",
+    "title": "7 Tage Südalbanien-Roadtrip: Route für den Sommer",
+    "excerpt": "Planen Sie Ihren 7-tägigen Südalbanien-Roadtrip ab dem Flughafen Tirana. Routentipps und Highlights wie Berat, Himarë und Gjirokastër.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/7-day-south-albania-road-trip.jpg",
+    "datePublished": "2026-07-26",
+    "readingTime": 3
+  },
+  {
+    "slug": "ruta-coche-sur-albania-7-dias",
+    "lang": "es",
+    "groupId": "7-day-south-albania-road-trip",
+    "title": "Ruta de 7 días por el sur de Albania en coche",
+    "excerpt": "Planifica tu ruta de 7 días por el sur de Albania desde el Aeropuerto de Tirana. Descubre tiempos de conducción y paradas en Berat, Himarë y Gjirokastër.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/7-day-south-albania-road-trip.jpg",
+    "datePublished": "2026-07-26",
+    "readingTime": 4
+  },
+  {
+    "slug": "itinerar-7-ditor-udhetim-jug-shqiperi",
+    "lang": "sq",
+    "groupId": "7-day-south-albania-road-trip",
+    "title": "Itinerar 7-Ditor në Jug të Shqipërisë: Guida e Plote",
+    "excerpt": "Planifikoni udhëtimin tuaj 7-ditor në Jugun e Shqipërisë nga Aeroporti i Rinasit. Zbuloni kohët e vozitjes dhe ndalesat në Berat, Himarë e Gjirokastër.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/7-day-south-albania-road-trip.jpg",
+    "datePublished": "2026-07-26",
+    "readingTime": 3
+  },
+  {
     "slug": "vlore-coastal-highway-best-beaches-by-car",
     "lang": "en",
     "groupId": "vlore-beaches-by-car",
