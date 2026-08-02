@@ -1,0 +1,60 @@
+{
+  "slug": "trajet-tirana-theth-en-voiture",
+  "lang": "fr",
+  "groupId": "tirana-to-theth-driving-guide",
+  "title": "De Tirana à Theth en voiture : guide de route pour l'été",
+  "excerpt": "Explorez les 170 km de Tirana à Theth en été. Conseils sur l'état de la route, le véhicule idéal et votre voiture de location à l'aéroport de Tirana TIA.",
+  "tag": "Guide",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/tirana-to-theth-driving-guide.jpg",
+  "datePublished": "2026-08-02",
+  "dateModified": "2026-08-02",
+  "readingTime": 4,
+  "keywords": [
+    "conduire de Tirana à Theth",
+    "parc national de Theth",
+    "road trip Alpes albanaises",
+    "location de voiture aeroport de Tirana",
+    "conduire en montagne Albanie"
+  ],
+  "intro": "L'été ouvre les portes des Alpes albanaises aux voyageurs curieux. Un road trip de Tirana à Theth permet de s'imprégner de paysages sauvages, de villages cachés et de l'air frais de la montagne, le tout à votre rythme. Voici tout ce qu'il faut savoir pour planifier un trajet sûr et agréable.",
+  "sections": [
+    {
+      "title": "De Tirana à Theth : aperçu de l'itinéraire",
+      "body": "Le trajet complet s'étend sur environ 170 km et dure entre 3 h 50 et 4 h 30 de conduite effective. Il se divise en deux parties distinctes : une première portion d'environ 1 h 30 sur l'autoroute SH1 de Tirana à Shkodër, suivie d'une route de montagne de 2 h à 2 h 30 sur la SH21 depuis Koplik jusqu'à Theth. Le col de la SH21 a été entièrement asphalté en 2021, ce qui signifie qu'un 4x4 n'est plus strictement obligatoire. Néanmoins, la route reste étroite et sinueuse ; privilégiez donc un trajet de jour et prévoyez des pauses pour admirer le paysage."
+    },
+    {
+      "title": "La route SH1 : la première partie du trajet",
+      "body": "En partant de Tirana, la SH1 est une route moderne à deux voies, bien entretenue, qui se dirige vers le nord-ouest en direction de Shkodër. La circulation y est fluide en dehors des heures de pointe et la signalisation est claire, en albanais et en anglais. Vous traverserez la plaine côtière, passerez près du pont Skanderbeg et apercevrez le lac de Shkodër à l'horizon. Les stations-services et les cafés sont nombreux, rendant cette première étape très confortable pour n'importe quelle voiture de location. À Shkodër, profitez-en pour vous dégourdir les jambes avant d'attaquer l'ascension."
+    },
+    {
+      "title": "Le col de montagne SH21 : à quoi s'attendre",
+      "body": "Depuis Koplik, la SH21 s'élève dans les montagnes maudites. Bien qu'entièrement goudronnée, la route demeure étroite, jalonnée de virages serrés et de flancs de falaise abruptes. En été, le revêtement est généralement sec, mais des nids-de-poule peuvent apparaître après de fortes pluies. La visibilité peut changer rapidement, notamment à cause du brouillard dans les vallées. Gardez vos phares allumés et conduisez prudemment. L'ascension offre des panoramas spectaculaires sur les prairies alpines et les maisons traditionnelles en pierre. Une halte dans le petit village de Selca est idéale pour faire une pause avant les 30 derniers kilomètres vers Theth."
+    },
+    {
+      "title": "Choix du véhicule et conseils de sécurité",
+      "body": "Une berline compacte ou intermédiaire standard suffit pour ce trajet estival, mais privilégiez un véhicule avec une garde au sol d'au moins 150 mm pour aborder sereinement les quelques zones gravillonnées. Assurez-vous d'avoir une roue de secours et une trousse de premiers secours, les services de dépannage étant rares en zone rurale. Évitez absolument de conduire de nuit sur la SH21 : l'absence d'éclairage public et les falaises rendent l'exercice dangereux. Faites le plein de carburant à Shkodër et utilisez un GPS combiné à une carte hors ligne, le réseau mobile pouvant être instable dans les vallées profondes."
+    },
+    {
+      "title": "Où récupérer votre voiture de location",
+      "body": "Les voyageurs internationaux arrivant à l'aéroport de Tirana Rinas (TIA) peuvent récupérer leur véhicule directement au terminal. AutoConnect Rental propose une large gamme de voitures de location bien entretenues, des citadines économiques aux modèles surélevés, tous vérifiés pour les trajets en montagne. Notre comptoir est situé près du hall des arrivées, ce qui vous permet de commencer votre aventure sans perdre de temps. Pensez à vérifier la pression des pneus et les niveaux de liquide avant de prendre la route vers le nord."
+    }
+  ],
+  "tip": {
+    "title": "Partez tôt pour arriver avant la nuit",
+    "body": "Prenez la route vers 8 heures du matin. Cela vous garantit une luminosité optimale pour la section sinueuse de la SH21, vous évite le brouillard d'après-midi dans les vallées et vous assure d'arriver à Theth bien avant le coucher du soleil."
+  },
+  "faq": [
+    {
+      "question": "La route de Tirana à Theth est-elle entièrement goudronnée ?",
+      "answer": "Oui. L'intégralité du col de montagne sur la SH21 a été asphaltée en 2021. La route reliant Tirana à Theth est donc entièrement goudronnée, bien qu'elle reste étroite et sinueuse."
+    },
+    {
+      "question": "Faut-il un 4x4 pour aller à Theth ?",
+      "answer": "Un 4x4 n'est plus obligatoire en été. Une voiture de tourisme standard avec une garde au sol correcte convient pour la route asphaltée de la SH21, mais un modèle légèrement surélevé offre un confort et une sécurité supplémentaires sur les quelques passages de gravier."
+    },
+    {
+      "question": "Combien de temps faut-il pour conduire de l'aéroport de Tirana à Theth ?",
+      "answer": "Le trajet de 170 km prend généralement entre 3 h 50 et 4 h 30 de conduite, selon le trafic, les pauses et les conditions météo."
+    }
+  ]
+}

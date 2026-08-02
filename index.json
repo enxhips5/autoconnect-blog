@@ -1,5 +1,71 @@
 [
   {
+    "slug": "driving-from-tirana-to-theth-summer-guide",
+    "lang": "en",
+    "groupId": "tirana-to-theth-driving-guide",
+    "title": "Driving from Tirana to Theth: A Summer Road‑Trip Guide",
+    "excerpt": "Explore the 170 km summer drive from Tirana to Theth National Park, learn about road conditions, vehicle needs and where to collect your rental car at TIA.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/tirana-to-theth-driving-guide.jpg",
+    "datePublished": "2026-08-02",
+    "readingTime": 3
+  },
+  {
+    "slug": "da-tirana-a-theth-in-auto-guida-estate",
+    "lang": "it",
+    "groupId": "tirana-to-theth-driving-guide",
+    "title": "In Auto da Tirana a Theth: Guida al Road Trip Estivo",
+    "excerpt": "Scopri il percorso di 170 km da Tirana a Theth in estate. Consigli su strade, auto a noleggio a TIA e sicurezza nel Parco Nazionale.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/tirana-to-theth-driving-guide.jpg",
+    "datePublished": "2026-08-02",
+    "readingTime": 4
+  },
+  {
+    "slug": "trajet-tirana-theth-en-voiture",
+    "lang": "fr",
+    "groupId": "tirana-to-theth-driving-guide",
+    "title": "De Tirana à Theth en voiture : guide de route pour l'été",
+    "excerpt": "Explorez les 170 km de Tirana à Theth en été. Conseils sur l'état de la route, le véhicule idéal et votre voiture de location à l'aéroport de Tirana TIA.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/tirana-to-theth-driving-guide.jpg",
+    "datePublished": "2026-08-02",
+    "readingTime": 4
+  },
+  {
+    "slug": "mit-dem-auto-von-tirana-nach-theth",
+    "lang": "de",
+    "groupId": "tirana-to-theth-driving-guide",
+    "title": "Mit dem Auto von Tirana nach Theth: Sommer-Roadtrip-Guide",
+    "excerpt": "Erfahren Sie alles über die 170 km lange Strecke von Tirana nach Theth im Sommer: Straßenverhältnisse, Fahrzeugtipps und Mietwagen-Infos für den TIA.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/tirana-to-theth-driving-guide.jpg",
+    "datePublished": "2026-08-02",
+    "readingTime": 3
+  },
+  {
+    "slug": "conducir-de-tirana-a-theth-guia-verano",
+    "lang": "es",
+    "groupId": "tirana-to-theth-driving-guide",
+    "title": "De Tirana a Theth en coche: Guía para tu viaje de verano",
+    "excerpt": "Explora la ruta de 170 km de Tirana al Parque Nacional de Theth. Consejos sobre carreteras, vehículos y alquiler de coches en el aeropuerto de Tirana.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/tirana-to-theth-driving-guide.jpg",
+    "datePublished": "2026-08-02",
+    "readingTime": 4
+  },
+  {
+    "slug": "udhetimi-nga-tirana-ne-theth-guide-verore",
+    "lang": "sq",
+    "groupId": "tirana-to-theth-driving-guide",
+    "title": "Udhëtimi nga Tirana në Theth: Guida për një Road-Trip Veror",
+    "excerpt": "Zbuloni rrugën 170 km nga Tirana në Parkun Kombëtar të Thethit. Këshilla për rrugën, mjetin e duhur dhe marrjen e makinës me qira në Rinas.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/tirana-to-theth-driving-guide.jpg",
+    "datePublished": "2026-08-02",
+    "readingTime": 3
+  },
+  {
     "slug": "drive-snorkeling-beaches-albania-car",
     "lang": "en",
     "groupId": "snorkeling-beaches-albania-car",
