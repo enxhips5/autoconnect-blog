@@ -1,5 +1,71 @@
 [
   {
+    "slug": "southern-albania-culinary-road-trip-7day",
+    "lang": "en",
+    "groupId": "south-albania-culinary-itinerary",
+    "title": "Southern Albania Culinary Road Trip: 7-Day Food Trail",
+    "excerpt": "Explore a self‑drive 7‑day food trail from Tirana Airport through Berat, Gjirokastër, Himarë, Sarandë and Ksamil, with practical driving tips and must‑try dish…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/south-albania-culinary-itinerary.jpg",
+    "datePublished": "2026-08-06",
+    "readingTime": 3
+  },
+  {
+    "slug": "viaggio-enogastronomico-albania-del-sud-7-giorni",
+    "lang": "it",
+    "groupId": "south-albania-culinary-itinerary",
+    "title": "Itinerario Enogastronomico nel Sud dell'Albania: 7 Giorni",
+    "excerpt": "Scopri i sapori dell'Albania del Sud con un itinerario in auto di 7 giorni da Tirana a Berat, Gjirokastër, Himarë e Sarandë con AutoConnect Rental.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/south-albania-culinary-itinerary.jpg",
+    "datePublished": "2026-08-06",
+    "readingTime": 3
+  },
+  {
+    "slug": "road-trip-gastronomique-albanie-sud-7-jours",
+    "lang": "fr",
+    "groupId": "south-albania-culinary-itinerary",
+    "title": "Road Trip Gastronomique en Albanie du Sud : Itinéraire 7 Jours",
+    "excerpt": "Découvrez un itinéraire culinaire de 7 jours au départ de Tirana via Berat, Gjirokastër et la Riviera, avec des conseils de conduite et les plats incontournabl…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/south-albania-culinary-itinerary.jpg",
+    "datePublished": "2026-08-06",
+    "readingTime": 4
+  },
+  {
+    "slug": "kulinarischer-roadtrip-suedalbanien-7-tage",
+    "lang": "de",
+    "groupId": "south-albania-culinary-itinerary",
+    "title": "Kulinarischer Roadtrip durch Südalbanien: 7 Tage Genuss",
+    "excerpt": "Entdecken Sie Südalbanien im Mietwagen: 7 Tage kulinarische Highlights von Berat und Gjirokastër bis Himarë und Sarandë. Mit praktischen Fahrtipps.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/south-albania-culinary-itinerary.jpg",
+    "datePublished": "2026-08-06",
+    "readingTime": 3
+  },
+  {
+    "slug": "ruta-gastronomica-sur-albania-7-dias",
+    "lang": "es",
+    "groupId": "south-albania-culinary-itinerary",
+    "title": "Ruta gastronómica por el sur de Albania: 7 días de sabores",
+    "excerpt": "Descubre los sabores de Albania en una ruta de 7 días desde el aeropuerto de Tirana por Berat, Gjirokastër y la Riviera, con consejos locales de conducción.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/south-albania-culinary-itinerary.jpg",
+    "datePublished": "2026-08-06",
+    "readingTime": 3
+  },
+  {
+    "slug": "udhetim-kulinar-shqiperia-e-jugut-7-dite",
+    "lang": "sq",
+    "groupId": "south-albania-culinary-itinerary",
+    "title": "Udhetim Kulinar në Jug të Shqipërisë: Guidë 7-Ditore",
+    "excerpt": "Zbuloni një itinerar gastronomik 7-ditor me makinë: nga Tirana në Berat, Gjirokastër e Ksamil. Shijoni gatimet tradicionale dhe perlat e Jugut të Shqipërisë.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/south-albania-culinary-itinerary.jpg",
+    "datePublished": "2026-08-06",
+    "readingTime": 3
+  },
+  {
     "slug": "driving-from-tirana-to-theth-summer-guide",
     "lang": "en",
     "groupId": "tirana-to-theth-driving-guide",

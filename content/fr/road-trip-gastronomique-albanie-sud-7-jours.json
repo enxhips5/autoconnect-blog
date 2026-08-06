@@ -1,0 +1,57 @@
+{
+  "slug": "road-trip-gastronomique-albanie-sud-7-jours",
+  "lang": "fr",
+  "groupId": "south-albania-culinary-itinerary",
+  "title": "Road Trip Gastronomique en Albanie du Sud : Itinéraire 7 Jours",
+  "excerpt": "Découvrez un itinéraire culinaire de 7 jours au départ de Tirana via Berat, Gjirokastër et la Riviera, avec des conseils de conduite et les plats incontournabl…",
+  "tag": "Guide",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/south-albania-culinary-itinerary.jpg",
+  "datePublished": "2026-08-06",
+  "dateModified": "2026-08-06",
+  "readingTime": 4,
+  "keywords": [
+    "road trip gastronomique albanie sud",
+    "itinéraire cuisine albanie",
+    "location voiture tirana",
+    "restaurants berat",
+    "cuisine gjirokastër",
+    "fruits de mer himarë"
+  ],
+  "intro": "Vous arrivez en Albanie ? Une semaine au volant vous permet de goûter aux saveurs les plus authentiques du pays, des ragoûts de montagne aux fruits de mer de la Méditerranée, tout en profitant de la liberté de votre propre voiture de location.",
+  "sections": [
+    {
+      "title": "Jour 1 – Road Trip Gastronomique : Les délices du Slow-Food à Berat",
+      "body": "Après avoir atterri à Tirana Rinas (TIA), récupérez votre voiture de location chez AutoConnect Rental et prenez la direction du sud par la SH4. Le trajet de 130 km vers Berat dure environ deux heures, serpentant à travers les montagnes de Skanderbeg et offrant des vues sur les oliveraies. À Berat, explorez le quartier historique de Mangalem et arrêtez-vous pour un déjeuner composé de byrek au fromage local et d'une portion de fërgesë, un ragoût traditionnel à base de poivrons, tomates et fromage frais. Les restaurants slow-food de la ville vous permettent de déguster de l'agneau fait maison et des légumes frais, offrant un début parfait à votre road trip gastronomique en Albanie du Sud."
+    },
+    {
+      "title": "Jour 2 – Les cuisines en pierre de Gjirokastër",
+      "body": "Le deuxième jour vous emmène à l'est sur la SH4 vers Gjirokastër, une ville de pierre classée à l'UNESCO située à environ 90 km. La route grimpe par le col de Përmet, une voiture fiable est donc essentielle pour ces dénivelés. À Gjirokastër, goûtez aux qifqi – des boulettes de riz assaisonnées d'herbes et frites dans l'huile d'olive – et à la copieuse soupe locale appelée tavë kosi. Ne manquez pas le restaurant en terrasse surplombant le château, où vous pourrez déguster de l'agneau grillé au romarin avec un verre de raki régional. Le marché de la ville propose également des figues fraîches et des noix, parfaits pour un goûter avant de rejoindre la côte."
+    },
+    {
+      "title": "Jour 3 – De Himarë à Sarandë : Saveurs de la mer Méditerranée",
+      "body": "Depuis Gjirokastër, suivez la route côtière (SH8) à travers les falaises spectaculaires de Himarë. Ce tronçon de 70 km est parsemé de tavernes servant des sardines grillées, des moules au vin blanc et des linguines aux fruits de mer agrémentées d'herbes locales. Arrêtez-vous à Himarë pour un déjeuner rapide de petulla nappées de miel, puis continuez vers le sud jusqu'aux baies turquoise de Sarandë. Ici, le dîner se compose souvent de poisson au four en papillote avec citron et origan, accompagné d'un vin blanc albanais frais. La brise marine ajoute une note de fraîcheur à chaque bouchée."
+    },
+    {
+      "title": "Jour 4 – Ksamil, pauses gourmandes en bord de mer et retour à Tirana",
+      "body": "Votre dernière étape vous mène aux plages étincelantes de Ksamil, à seulement 15 km de Sarandë. Après une promenade matinale sur le front de mer, savourez un brunch composé d'une salade de poulpe frais et d'huile d'olive infusée aux agrumes. Avant de remonter vers Tirana, envisagez un court arrêt à la cité antique de Butrint pour goûter à la çorba traditionnelle, un bouillon consistant qui reflète les influences mixtes de la région. Le trajet de retour vers l'aéroport s'étend sur environ 260 km, principalement via la SH4, vous permettant de repenser aux saveurs découvertes à travers l'Albanie du Sud."
+    }
+  ],
+  "tip": {
+    "title": "Conseil pour le carburant et le stationnement",
+    "body": "Faites le plein dans les grandes villes comme Berat ou Gjirokastër, où les stations-service sont ouvertes 24h/24 et les prix sont généralement plus bas que sur la Riviera. Dans les villages côtiers, le stationnement peut être difficile en haute saison ; arrivez tôt ou utilisez les parkings municipaux pour éviter tout désagrément."
+  },
+  "faq": [
+    {
+      "question": "Quels sont les meilleurs plats traditionnels à goûter lors d'un road trip en Albanie du Sud ?",
+      "answer": "Ne manquez pas le byrek au fromage, la fërgesë (poivrons et fromage), les qifqi de Gjirokastër, les petulla au miel, les sardines grillées et les moules de Butrint. Le tavë kosi (agneau au yaourt) et le baklava artisanal des montagnes sont également incontournables."
+    },
+    {
+      "question": "Quel est l'état de la route pour un itinéraire gastronomique dans le sud ?",
+      "answer": "L'itinéraire emprunte la SH4 de Tirana vers Berat et Gjirokastër, puis la SH8 panoramique le long de la mer Ionienne. Attendez-vous à des cols de montagne et des routes côtières sinueuses. Une voiture de location bien entretenue est indispensable pour circuler en toute sécurité entre les étapes de 70 à 130 km."
+    },
+    {
+      "question": "Où louer une voiture pour un tour culinaire au départ de Tirana ?",
+      "answer": "Le plus simple est de récupérer votre véhicule directement à l'aéroport de Tirana Rinas (TIA). AutoConnect Rental propose un comptoir dans le hall des arrivées avec une large gamme de voitures, des citadines aux SUV, parfaits pour explorer les routes variées du sud de l'Albanie."
+    }
+  ]
+}
