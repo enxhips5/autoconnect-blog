@@ -1,5 +1,71 @@
 [
   {
+    "slug": "driving-albania-first-time-summer-safety",
+    "lang": "en",
+    "groupId": "driving-in-albania-first-time-safety",
+    "title": "Driving in Albania for the First Time: Summer Safety Guide",
+    "excerpt": "Learn essential safety tips for your first summer drive in Albania, from mountain passes to coastal roads, and rent a reliable car at Tirana Rinas airport.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/driving-in-albania-first-time-safety.jpg",
+    "datePublished": "2026-08-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "guidare-in-albania-prima-volta-sicurezza-estate",
+    "lang": "it",
+    "groupId": "driving-in-albania-first-time-safety",
+    "title": "Guidare in Albania per la prima volta: guida estiva",
+    "excerpt": "Consigli di sicurezza per guidare in Albania d'estate. Scopri come affrontare passi di montagna e strade costiere con un'auto a noleggio da Tirana Rinas.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/driving-in-albania-first-time-safety.jpg",
+    "datePublished": "2026-08-09",
+    "readingTime": 4
+  },
+  {
+    "slug": "conduire-en-albanie-securite-routiere-ete",
+    "lang": "fr",
+    "groupId": "driving-in-albania-first-time-safety",
+    "title": "Conduire en Albanie : Guide de sécurité pour l'été",
+    "excerpt": "Découvrez nos conseils pour conduire en Albanie cet été, des cols de montagne à la côte. Louez une voiture fiable à l'aéroport de Tirana avec AutoConnect Renta…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/driving-in-albania-first-time-safety.jpg",
+    "datePublished": "2026-08-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "autofahren-albanien-anfaenger-sicherheit-sommer",
+    "lang": "de",
+    "groupId": "driving-in-albania-first-time-safety",
+    "title": "Autofahren in Albanien: Sicherheitstipps für den Sommer",
+    "excerpt": "Wertvolle Tipps für Ihre erste Autofahrt in Albanien. Entdecken Sie die Küstenstraßen sicher mit einem Mietwagen ab dem Flughafen Tirana.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/driving-in-albania-first-time-safety.jpg",
+    "datePublished": "2026-08-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "conducir-albania-primera-vez-seguridad-verano",
+    "lang": "es",
+    "groupId": "driving-in-albania-first-time-safety",
+    "title": "Conducir en Albania por primera vez: Guía de seguridad",
+    "excerpt": "Descubre consejos clave para conducir en Albania este verano. Alquila un coche fiable en el aeropuerto de Tirana Rinas y disfruta de una ruta segura.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/driving-in-albania-first-time-safety.jpg",
+    "datePublished": "2026-08-09",
+    "readingTime": 3
+  },
+  {
+    "slug": "udhetim-ne-shqiperine-per-veren",
+    "lang": "sq",
+    "groupId": "driving-in-albania-first-time-safety",
+    "title": "Udhëzuesi për drejtim në Shqipëri për herë të parë: Siguria në verë",
+    "excerpt": "Zbuloni këshilla të rëndësishme për drejtim të sigurt në verë në Shqipëri, nga kalimet malore te rrugët bregdetare, dhe rezervoni një makinë të besueshme në ae…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/driving-in-albania-first-time-safety.jpg",
+    "datePublished": "2026-08-09",
+    "readingTime": 3
+  },
+  {
     "slug": "southern-albania-culinary-road-trip-7day",
     "lang": "en",
     "groupId": "south-albania-culinary-itinerary",
