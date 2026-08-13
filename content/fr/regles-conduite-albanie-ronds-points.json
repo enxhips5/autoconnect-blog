@@ -1,0 +1,56 @@
+{
+  "slug": "regles-conduite-albanie-ronds-points",
+  "lang": "fr",
+  "groupId": "albanian-roundabouts-and-road-rules",
+  "title": "Conduire en Albanie : Ronds-points et règles de sécurité",
+  "excerpt": "Guide essentiel sur la conduite en Albanie : ronds-points, règles de sécurité et conseils pour éviter les amendes lors de votre road trip estival.",
+  "tag": "Guide",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-roundabouts-and-road-rules.jpg",
+  "datePublished": "2026-08-13",
+  "dateModified": "2026-08-13",
+  "readingTime": 3,
+  "keywords": [
+    "conduire en Albanie",
+    "ronds-points Albanie",
+    "code de la route Albanie",
+    "vacances Albanie voiture",
+    "conseils conduite Albanie"
+  ],
+  "intro": "Lorsque vous récupérez votre véhicule chez AutoConnect Rental à l'aéroport de Tirana, la première chose que vous remarquerez est la circulation fluide sur le côté droit de la chaussée. Les routes d'Albanie sont magnifiques mais exigent le respect des règles locales, particulièrement aux nombreux ronds-points qui ponctuent le réseau routier. Ce guide détaille les règles de conduite les plus importantes en Albanie afin que vous puissiez naviguer en toute confiance et éviter les erreurs coûteuses.",
+  "sections": [
+    {
+      "title": "Les bases de la conduite aux ronds-points albanais",
+      "body": "Les ronds-points albanais sont fréquents sur l'autoroute A1 et dans les centres urbains comme Tirana et Durrës. Ils sont généralement signalés par un terre-plein central blanc et un panneau 'cédez le passage' à l'entrée. Les véhicules circulent dans le sens des aiguilles d'une montre, et vous devez impérativement céder le passage au trafic déjà engagé. Ne vous insérez que lorsqu'il y a un espace suffisant et maintenez une vitesse constante. Les piétons peuvent traverser sur des passages dédiés à la périphérie, bien que ceux-ci soient plus rares sur les grands axes."
+    },
+    {
+      "title": "Priorité de passage aux carrefours giratoires",
+      "body": "La priorité dans les ronds-points albanais suit un principe simple : le trafic déjà à l'intérieur du cercle est prioritaire. À l'approche, regardez sur votre gauche et cédez le passage à tout véhicule déjà en mouvement autour de l'îlot. Si deux voitures arrivent simultanément, celle de gauche a la priorité. Cette règle s'applique aussi bien aux voitures qu'aux motos. Gardez vos clignotants activés lorsque vous vous apprêtez à sortir et restez vigilant face aux cyclistes. Le respect de cet ordre de passage réduit considérablement les risques de collisions."
+    },
+    {
+      "title": "Règles de sécurité clés pour les conducteurs estivaux",
+      "body": "Les visiteurs estivaux oublient souvent certaines règles de sécurité non négociables. Les feux de croisement doivent rester allumés 24 heures sur 24, même par temps clair ; activez-les dès que vous quittez l'aéroport. Le port de la ceinture de sécurité est obligatoire pour tous les passagers, à l'avant comme à l'arrière. Le taux d'alcoolémie légal est de 0,01 %, ce qui correspond à une politique de tolérance zéro. L'usage du téléphone portable est interdit, sauf avec un système mains libres certifié, sous peine d'amendes pouvant atteindre 100 €. Les limitations de vitesse sont de 40 km/h en agglomération et 80 km/h sur les routes rurales."
+    },
+    {
+      "title": "Éviter les amendes courantes et réagir en cas d'urgence",
+      "body": "Les amendes en Albanie peuvent vite s'accumuler si vous ignorez les règles. L'utilisation d'un téléphone à la main coûte entre 25 € et 100 €, et conduire sans ceinture entraîne une sanction similaire. En cas d'excès de vitesse, l'amende est calculée par kilomètre au-dessus de la limite. En cas d'accident, appelez la police au 129 et restez sur les lieux. Échangez vos coordonnées avec l'autre conducteur et prenez des photos des dommages. La plupart des agences, dont AutoConnect Rental, vous assisteront pour les formalités, mais avoir vos documents d'assurance prêts accélérera grandement la procédure."
+    }
+  ],
+  "tip": {
+    "title": "Conseil d'expert : Allumez vos feux dès la prise en charge",
+    "body": "La police albanaise vérifie systématiquement que les feux sont allumés, même en plein jour. Les activer dès que vous récupérez votre voiture à l'aéroport de Tirana vous évite une amende immédiate et vous rend plus visible sur les routes sinueuses du littoral, notamment vers Sarandë."
+  },
+  "faq": [
+    {
+      "question": "Qui a la priorité dans un rond-point albanais ?",
+      "answer": "Le trafic déjà engagé à l'intérieur du rond-point a la priorité. Les véhicules qui entrent doivent céder le passage à ceux qui circulent déjà dans le sens des aiguilles d'une montre. Si deux voitures arrivent en même temps, celle de gauche passe en premier."
+    },
+    {
+      "question": "Quel est le taux d'alcoolémie autorisé pour conduire en Albanie ?",
+      "answer": "L'Albanie applique un taux limite de 0,01 %, ce qui constitue une politique de tolérance zéro. Toute trace d'alcool détectée peut entraîner une amende, une suspension de permis ou une arrestation."
+    },
+    {
+      "question": "Ai-je besoin d'un permis de conduire international pour l'Albanie ?",
+      "answer": "Un permis de conduire valide de l'Union européenne est accepté dans toute l'Albanie. Les voyageurs venant de pays hors UE doivent être munis d'un permis de conduire international (PCI) accompagné de leur permis national d'origine."
+    }
+  ]
+}

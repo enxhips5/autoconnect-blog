@@ -1,5 +1,71 @@
 [
   {
+    "slug": "driving-rules-albania-roundabouts",
+    "lang": "en",
+    "groupId": "albanian-roundabouts-and-road-rules",
+    "title": "Driving Rules in Albania: Who Goes First at Roundabouts Guide",
+    "excerpt": "Learn the essential driving rules in Albania, from roundabout etiquette to strict safety laws, so you can enjoy a smooth summer road trip without fines.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-roundabouts-and-road-rules.jpg",
+    "datePublished": "2026-08-13",
+    "readingTime": 3
+  },
+  {
+    "slug": "regole-guida-albania-rotatorie",
+    "lang": "it",
+    "groupId": "albanian-roundabouts-and-road-rules",
+    "title": "Guida in Albania: Regole, Rotatorie e Consigli Utili",
+    "excerpt": "Scopri come guidare in Albania senza stress: le regole sulle rotatorie, i limiti di velocità e i consigli di AutoConnect Rental per evitare multe.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-roundabouts-and-road-rules.jpg",
+    "datePublished": "2026-08-13",
+    "readingTime": 3
+  },
+  {
+    "slug": "regles-conduite-albanie-ronds-points",
+    "lang": "fr",
+    "groupId": "albanian-roundabouts-and-road-rules",
+    "title": "Conduire en Albanie : Ronds-points et règles de sécurité",
+    "excerpt": "Guide essentiel sur la conduite en Albanie : ronds-points, règles de sécurité et conseils pour éviter les amendes lors de votre road trip estival.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-roundabouts-and-road-rules.jpg",
+    "datePublished": "2026-08-13",
+    "readingTime": 3
+  },
+  {
+    "slug": "verkehrsregeln-albanien-kreisverkehr",
+    "lang": "de",
+    "groupId": "albanian-roundabouts-and-road-rules",
+    "title": "Verkehrsregeln in Albanien: Vorfahrt im Kreisverkehr",
+    "excerpt": "Erfahren Sie alles über Verkehrsregeln in Albanien: Von der Vorfahrt im Kreisverkehr bis hin zu Bußgeldern. Sicher im Mietwagen durch den Sommerurlaub.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-roundabouts-and-road-rules.jpg",
+    "datePublished": "2026-08-13",
+    "readingTime": 3
+  },
+  {
+    "slug": "normas-conduccion-albania-rotondas",
+    "lang": "es",
+    "groupId": "albanian-roundabouts-and-road-rules",
+    "title": "Normas de conducción en Albania: rotondas y prioridad",
+    "excerpt": "Descubre las normas de conducción en Albania, la prioridad en rotondas y las leyes de tráfico para disfrutar de un viaje en coche sin multas.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-roundabouts-and-road-rules.jpg",
+    "datePublished": "2026-08-13",
+    "readingTime": 4
+  },
+  {
+    "slug": "rregullat-e-qarkullimit-shqiperi-rrethrrotullimet",
+    "lang": "sq",
+    "groupId": "albanian-roundabouts-and-road-rules",
+    "title": "Rregullat e Qarkullimit në Shqipëri: Përparësia në Rrethrrotullim",
+    "excerpt": "Mësoni rregullat kryesore të qarkullimit në Shqipëri, nga përparësia në rrethrrotullime te dritat e detyrueshme, për një udhëtim të sigurt pa gjoba.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albanian-roundabouts-and-road-rules.jpg",
+    "datePublished": "2026-08-13",
+    "readingTime": 3
+  },
+  {
     "slug": "driving-albania-first-time-summer-safety",
     "lang": "en",
     "groupId": "driving-in-albania-first-time-safety",
