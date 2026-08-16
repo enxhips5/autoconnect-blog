@@ -1,5 +1,71 @@
 [
   {
+    "slug": "car-breakdown-albania-summer-emergency-guide",
+    "lang": "en",
+    "groupId": "albania-car-breakdown-accident-guide",
+    "title": "Car Breakdown in Albania: A Summer Emergency Guide",
+    "excerpt": "Learn what to do if your rental car breaks down or you’re in an accident in Albania this summer—step‑by‑step actions, emergency contacts, and a practical pro t…",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-car-breakdown-accident-guide.jpg",
+    "datePublished": "2026-08-16",
+    "readingTime": 3
+  },
+  {
+    "slug": "guasto-auto-albania-guida-emergenza-estate",
+    "lang": "it",
+    "groupId": "albania-car-breakdown-accident-guide",
+    "title": "Guasto all'auto in Albania: guida d'emergenza estiva",
+    "excerpt": "Cosa fare in caso di guasto o incidente con l'auto a noleggio in Albania in estate. Numeri di emergenza, consigli utili e passaggi chiave.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-car-breakdown-accident-guide.jpg",
+    "datePublished": "2026-08-16",
+    "readingTime": 3
+  },
+  {
+    "slug": "panne-voiture-albanie-guide-urgence-ete",
+    "lang": "fr",
+    "groupId": "albania-car-breakdown-accident-guide",
+    "title": "Panne de voiture en Albanie : guide d'urgence d'été",
+    "excerpt": "Que faire en cas de panne ou d'accident de voiture de location en Albanie cet été ? Découvrez les étapes, numéros d'urgence et conseils pratiques.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-car-breakdown-accident-guide.jpg",
+    "datePublished": "2026-08-16",
+    "readingTime": 3
+  },
+  {
+    "slug": "mietwagen-panne-albanien-notfall-guide",
+    "lang": "de",
+    "groupId": "albania-car-breakdown-accident-guide",
+    "title": "Autopanne in Albanien: Notfall-Guide für den Sommer",
+    "excerpt": "Was tun bei einer Autopanne oder einem Unfall in Albanien? Praktische Schritte, Notrufnummern und wichtige Tipps für Ihren Mietwagen-Urlaub.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-car-breakdown-accident-guide.jpg",
+    "datePublished": "2026-08-16",
+    "readingTime": 3
+  },
+  {
+    "slug": "averia-coche-albania-guia-emergencia-verano",
+    "lang": "es",
+    "groupId": "albania-car-breakdown-accident-guide",
+    "title": "Avería de coche en Albania: Guía de emergencia",
+    "excerpt": "¿Qué hacer si tu coche de alquiler sufre una avería o accidente en Albania? Guía práctica con teléfonos de emergencia y consejos locales.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-car-breakdown-accident-guide.jpg",
+    "datePublished": "2026-08-16",
+    "readingTime": 3
+  },
+  {
+    "slug": "defekt-makine-shqiperi-guide-emergjence",
+    "lang": "sq",
+    "groupId": "albania-car-breakdown-accident-guide",
+    "title": "Defektet me Makinë në Shqipëri: Udhëzues Emergjence Verore",
+    "excerpt": "Mësoni si të veproni në rast defekti ose aksidenti me makinë me qira në Shqipëri. Hapat, numrat e emergjencës dhe këshilla praktike nga AutoConnect Rental.",
+    "tag": "Tips",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-car-breakdown-accident-guide.jpg",
+    "datePublished": "2026-08-16",
+    "readingTime": 3
+  },
+  {
     "slug": "driving-rules-albania-roundabouts",
     "lang": "en",
     "groupId": "albanian-roundabouts-and-road-rules",
