@@ -1,5 +1,71 @@
 [
   {
+    "slug": "summer-road-safety-albania",
+    "lang": "en",
+    "groupId": "albania-driving-laws-safety-guide",
+    "title": "Summer Road Safety in Albania: Driving Rules in Albania",
+    "excerpt": "Learn the essential driving rules in Albania—seatbelts, child seats, and alcohol limits—to enjoy a safe, fine‑free summer road trip from Tirana Rinas Airport.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-driving-laws-safety-guide.jpg",
+    "datePublished": "2026-08-20",
+    "readingTime": 3
+  },
+  {
+    "slug": "sicurezza-stradale-guida-albania-estate",
+    "lang": "it",
+    "groupId": "albania-driving-laws-safety-guide",
+    "title": "Sicurezza Stradale in Albania: Regole e Consigli Estivi",
+    "excerpt": "Scopri le regole di guida in Albania: cinture, seggiolini e limiti alcolemici per un viaggio sicuro e senza multe con un'auto a noleggio da Tirana Rinas.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-driving-laws-safety-guide.jpg",
+    "datePublished": "2026-08-20",
+    "readingTime": 3
+  },
+  {
+    "slug": "securite-routiere-ete-albanie",
+    "lang": "fr",
+    "groupId": "albania-driving-laws-safety-guide",
+    "title": "Conduire en Albanie : règles de sécurité en été",
+    "excerpt": "Découvrez les règles de conduite en Albanie (ceinture, siège enfant, alcoolémie) pour un road trip d'été en toute sécurité depuis l'aéroport de Tirana.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-driving-laws-safety-guide.jpg",
+    "datePublished": "2026-08-20",
+    "readingTime": 3
+  },
+  {
+    "slug": "verkehrsregeln-albanien-sommer",
+    "lang": "de",
+    "groupId": "albania-driving-laws-safety-guide",
+    "title": "Sicher Autofahren in Albanien: Wichtige Verkehrsregeln",
+    "excerpt": "Wichtige Verkehrsregeln in Albanien für Ihren Sommerurlaub ab Tirana Airport: Kindersitze, Promillegrenze und Gurte im Überblick.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-driving-laws-safety-guide.jpg",
+    "datePublished": "2026-08-20",
+    "readingTime": 3
+  },
+  {
+    "slug": "seguridad-vial-albania-normas-conduccion",
+    "lang": "es",
+    "groupId": "albania-driving-laws-safety-guide",
+    "title": "Seguridad Vial en Albania: Normas de Conducción en Verano",
+    "excerpt": "Conozca las normas de conducción en Albania: cinturones, sillas infantiles y límites de alcohol para un viaje seguro desde el Aeropuerto de Tirana.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-driving-laws-safety-guide.jpg",
+    "datePublished": "2026-08-20",
+    "readingTime": 4
+  },
+  {
+    "slug": "siguria-rrugore-shqiperi-rregullat-e-qarkullimit",
+    "lang": "sq",
+    "groupId": "albania-driving-laws-safety-guide",
+    "title": "Siguria Rrugore në Shqipëri: Rregullat e Qarkullimit gjatë Verës",
+    "excerpt": "Mësoni rregullat kryesore në Shqipëri: rripat e sigurimit, sediljet për fëmijë dhe limitet e alkoolit për një udhëtim të sigurt nga Aeroporti i Rinasit.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-driving-laws-safety-guide.jpg",
+    "datePublished": "2026-08-20",
+    "readingTime": 3
+  },
+  {
     "slug": "car-breakdown-albania-summer-emergency-guide",
     "lang": "en",
     "groupId": "albania-car-breakdown-accident-guide",
