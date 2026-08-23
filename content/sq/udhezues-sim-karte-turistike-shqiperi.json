@@ -1,0 +1,56 @@
+{
+  "slug": "udhezues-sim-karte-turistike-shqiperi",
+  "lang": "sq",
+  "groupId": "albania-tourist-sim-card-guide",
+  "title": "Kartë SIM Turistike në Shqipëri: Si të Qëndroni Online",
+  "excerpt": "Mësoni si të blini një kartë SIM turistike në Aeroportin e Tiranës për të pasur internet dhe GPS gjatë udhëtimit tuaj me makinë në Shqipëri.",
+  "tag": "Guide",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-tourist-sim-card-guide.jpg",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
+  "readingTime": 3,
+  "keywords": [
+    "karte SIM turistike Shqiperi",
+    "internet ne aeroportin e Tiranes",
+    "Vodafone Albania",
+    "One Albania eSIM",
+    "makine me qira Shqiperi"
+  ],
+  "intro": "Sapo keni zbritur në Aeroportin Ndërkombëtar të Tiranës, keni marrë makinën tuaj nga AutoConnect Rental dhe rruga drejt Himarës, Sarandës dhe Ksamilit po ju pret. E vetmja gjë që mund të prishë aventurën është humbja e internetit. Ky është një udhëzues i shpejtë dhe praktik për të siguruar një kartë SIM vendase, në mënyrë që të qëndroni gjithmonë në hartë dhe me muzikën tuaj të preferuar.",
+  "sections": [
+    {
+      "title": "Kartë SIM turistike në Shqipëri: Çfarë duhet të dini",
+      "body": "Shqipëria nuk është pjesë e BE-së, kështu qe paketat 'roaming si në shtëpi' që përdorni në Evropë nuk funksionojnë këtu. Një kartë SIM turistike në Shqipëri ju ofron një numër lokal dhe paketë interneti me çmime të parashikueshme, zakonisht midis 19 USD dhe 29 EUR. Karta duhet të regjistrohet me pasaportë ose kartë identiteti, një proces që zgjat vetëm një minutë në sportelet e aeroportit. Sapo të aktivizohet, do të keni mbulim 4G përgjatë autostradës bregdetare dhe rrugëve të brendshme, duke mbajtur aplikacionin tuaj të navigimit aktiv."
+    },
+    {
+      "title": "Pse roaming-u i BE-së nuk funksionon në Shqipëri",
+      "body": "Edhe nëse operatori juaj në vendin e origjinës ofron roaming në BE, kjo nuk përfshin Shqipërinë pasi vendi nuk aplikon të njëjtat rregulla tarifore. Përdorimi i kartës SIM të BE-së mund të sjellë tarifa shumë të larta për çdo megabyte ose bllokim të plotë të internetit pas një kohe të shkurtër. Shumë udhëtarë e zbulojnë këtë sapo mbërrijnë në Tiranë kur hartat ndalojnë së përditësuari. Për të shmangur këto shpenzime të papritura, zgjidhni një paketë vendase me parapagesë sapo të zbrisni nga avioni."
+    },
+    {
+      "title": "Karta SIM fizike apo eSIM: Cila është zgjedhja e duhur",
+      "body": "Të dy operatorët kryesorë, Vodafone Albania dhe One Albania, ofrojnë karta SIM fizike dhe profile eSIM. Një kartë fizike është e lirë dhe funksionon në çdo telefon me fole nano-SIM. Nga ana tjetër, eSIM ju lejon të shkarkoni një profil direkt në cilësimet e telefonit tuaj, duke shmangur nevojën për një kartë plastike. Çmimet e paketave eSIM janë të ngjashme, por duhet të siguroheni që telefoni juaj e mbështet këtë teknologji. Zgjidhni formatin që i përshtatet më mirë pajisjes dhe komoditetit tuaj."
+    },
+    {
+      "title": "Ku të blini dhe si të aktivizoni kartën SIM në Aeroport",
+      "body": "Sportelet zyrtare të Vodafone dhe One Albania ndodhen menjëherë pas sallës së mbërritjeve në Terminalin 1. Stafi flet anglisht dhe do t'ju ndihmojë me paketat turistike, regjistrimin e pasaportës dhe aktivizimin e shërbimit për pak minuta. Mbani pasaportën gati, konfirmoni sasinë e internetit (shumica e turistëve zgjedhin 5-10 GB për një javë) dhe kërkoni kodin PIN nëse merrni kartë fizike. Pas aktivizimit, testoni lidhjen përpara se të niseni drejt Himarës."
+    }
+  ],
+  "tip": {
+    "title": "Këshillë: Aktivizoni kartën përpara se të largoheni nga aeroporti",
+    "body": "Aktivizoni internetin dhe bëni një provë të shpejtë të navigimit drejt një pike referimi afër ndërsa jeni ende brenda terminalit. Nëse sinjali është i dobët, kërkojuni punonjësve të rregullojnë konfigurimin. Një lidhje e fortë që në fillim garanton GPS pa ndërprerje gjatë gjithë udhëtimit tuaj."
+  },
+  "faq": [
+    {
+      "question": "A mund të përdor paketën time të roaming-ut të BE-së në Shqipëri?",
+      "answer": "No. Shqipëria nuk është pjesë e zonës 'roam-like-at-home' të BE-së, prandaj tarifat e operatorit tuaj do të jenë shumë të larta ose shërbimi do të bllokohet. Kalimi në një kartë SIM lokale është zgjedhja më e sigurt."
+    },
+    {
+      "question": "Ku mund të blej një kartë SIM turistike në Aeroportin e Tiranës?",
+      "answer": "Sportelet zyrtare të Vodafone dhe One Albania ndodhen menjëherë pas zonës së mbërritjeve në Terminalin 1. Ata ofrojnë paketa të gatshme me parapagesë dhe bëjnë aktivizimin në moment."
+    },
+    {
+      "question": "A funksionon eSIM për turistët në Shqipëri?",
+      "answer": "Po. Vodafone Albania dhe One Albania ofrojnë profile eSIM që mund të shkarkohen në telefonat e pajtueshëm. Procesi është i ngjashëm me blerjen e një karte fizike, por pa pasur nevojë të vendosni një kartë plastike."
+    }
+  ]
+}

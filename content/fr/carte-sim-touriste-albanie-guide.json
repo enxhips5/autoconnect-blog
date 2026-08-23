@@ -1,0 +1,56 @@
+{
+  "slug": "carte-sim-touriste-albanie-guide",
+  "lang": "fr",
+  "groupId": "albania-tourist-sim-card-guide",
+  "title": "Carte SIM en Albanie : restez connecté sur la route",
+  "excerpt": "Comment acheter une carte SIM pour touriste à l'aéroport de Tirana, éviter les frais de roaming et utiliser le GPS de votre voiture de location.",
+  "tag": "Guide",
+  "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/albania-tourist-sim-card-guide.jpg",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
+  "readingTime": 3,
+  "keywords": [
+    "carte SIM Albanie",
+    "SIM aeroport Tirana",
+    "Vodafone Albanie",
+    "One Albania eSIM",
+    "GPS voiture de location Albanie"
+  ],
+  "intro": "Vous venez d'atterrir à l'aéroport international de Tirana, vous avez récupéré votre voiture de location chez AutoConnect Rental, et les routes vers Himarë, Sarandë et Ksamil vous attendent. Pour éviter de gâcher l'aventure avec une perte de réseau, voici un guide rapide et pratique pour obtenir une carte SIM locale et garder votre GPS et votre musique actifs tout au long du trajet.",
+  "sections": [
+    {
+      "title": "Carte SIM pour touriste en Albanie : l'essentiel",
+      "body": "L'Albanie ne fait pas partie de l'Union européenne. Les conditions d'itinérance sans frais (« roam-like-at-home ») qui s'appliquent en Europe ne fonctionnent donc pas dès que vous passez la frontière. Une carte SIM locale pour touriste vous offre un numéro albanais et un forfait de données à un prix prévisible, généralement situé entre 19 USD et 29 EUR pour plusieurs gigaoctets. L'achat nécessite l'enregistrement de votre passeport ou pièce d'identité, une formalité qui prend une minute au guichet de l'aéroport. Une fois activée, elle vous assure une couverture 4G stable sur l'autoroute côtière et les routes de l'intérieur."
+    },
+    {
+      "title": "Pourquoi le roaming européen ne fonctionne pas en Albanie",
+      "body": "Même si votre opérateur propose l'itinérance en Europe, l'Albanie est souvent exclue de ces forfaits car elle n'applique pas la réglementation de l'UE. Utiliser votre carte SIM habituelle peut entraîner des frais de hors-forfait exorbitants par mégaoctet consommé, ou bloquer vos données au bout de quelques minutes. Beaucoup de voyageurs s'en rendent compte le premier soir à Tirana lorsque le GPS cesse de se mettre à jour. Pour éviter les mauvaises surprises, optez pour une solution locale prépayée dès votre arrivée à l'aéroport."
+    },
+    {
+      "title": "SIM physique ou eSIM : quelle option choisir ?",
+      "body": "Les deux principaux opérateurs, Vodafone Albania et One Albania, proposent des cartes SIM prépayées physiques ainsi que des profils eSIM. Une carte SIM physique classique est économique, s'adapte à tous les téléphones dotés d'un emplacement nano-SIM et se transfère facilement. L'eSIM, en revanche, vous permet de télécharger un profil directement dans les paramètres de votre smartphone compatible, sans aucune manipulation physique. Les tarifs sont très similaires : choisissez simplement le format le plus pratique pour votre téléphone."
+    },
+    {
+      "title": "Où acheter et comment activer votre SIM à l'aéroport de Tirana",
+      "body": "Les boutiques officielles de Vodafone et One Albania se situent juste après la zone des arrivées dans le terminal principal. Le personnel parle anglais et vous proposera un pack touristique adapté, enregistrera votre pièce d'identité et activera l'offre en quelques instants. Gardez votre passeport à portée de main, vérifiez le volume de données (la plupart des voyageurs choisissent entre 5 et 10 Go pour une semaine) et notez le code PIN si vous optez pour une SIM physique. Testez votre connexion internet avant de quitter l'aéroport pour prendre la route vers Himarë l'esprit tranquille."
+    }
+  ],
+  "tip": {
+    "title": "Conseil de pro : testez votre SIM avant de quitter l'aéroport",
+    "body": "Activez vos données mobiles et lancez un itinéraire GPS test vers un point d'intérêt proche tout en restant dans le terminal. Si le signal pose problème, demandez immédiatement l'aide du conseiller au guichet pour réinitialiser la connexion."
+  },
+  "faq": [
+    {
+      "question": "Puis-je utiliser mon forfait mobile européen en Albanie ?",
+      "answer": "Non, l'Albanie n'étant pas membre de l'UE, les tarifs de roaming classiques de votre forfait européen ne s'appliquent pas. L'utilisation de vos données habituelles peut entraîner des surcoûts importants. Acheter une SIM locale est la solution idéale."
+    },
+    {
+      "question": "Où acheter une carte SIM à l'aéroport de Tirana ?",
+      "answer": "Des guichets officiels de Vodafone et One Albania sont installés juste à la sortie de la zone de livraison des bagages dans le terminal principal. Ils s'occupent de l'enregistrement de votre passeport et de l'activation."
+    },
+    {
+      "question": "L'eSIM fonctionne-t-elle pour les touristes en Albanie ?",
+      "answer": "Oui. Vodafone Albania et One Albania proposent des profils eSIM pour les smartphones compatibles. L'achat et l'activation se font directement sur place ou en ligne selon les offres du moment."
+    }
+  ]
+}
