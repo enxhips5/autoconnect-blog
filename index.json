@@ -1,5 +1,71 @@
 [
   {
+    "slug": "albanian-riviera-autumn-road-trip-tirana-himare-2024",
+    "lang": "en",
+    "groupId": "autumn-road-trip-tirana-himare-olive-harvest",
+    "title": "Albanian Riviera Autumn Road Trip: Tirana‑Himarë 2024",
+    "excerpt": "Discover the golden hues of the Albanian Riviera in autumn. Follow a scenic 220 km drive from Tirana Airport to Himarë’s olive groves, with tips on harvest vis…",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-road-trip-tirana-himare-olive-harvest.jpg",
+    "datePublished": "2026-10-04",
+    "readingTime": 3
+  },
+  {
+    "slug": "on-the-road-riviera-albanese-autunno-tirana-himare",
+    "lang": "it",
+    "groupId": "autumn-road-trip-tirana-himare-olive-harvest",
+    "title": "Road Trip in Riviera Albanese: da Tirana a Himarë in Autunno",
+    "excerpt": "Scopri la Riviera Albanese in autunno: un viaggio on the road di 220 km da Tirana a Himarë tra passi di montagna, uliveti e mare d'autunno.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-road-trip-tirana-himare-olive-harvest.jpg",
+    "datePublished": "2026-10-04",
+    "readingTime": 3
+  },
+  {
+    "slug": "road-trip-automne-riviera-albanaise-tirana-himare",
+    "lang": "fr",
+    "groupId": "autumn-road-trip-tirana-himare-olive-harvest",
+    "title": "Road trip d'automne en Albanie : de Tirana à Himarë",
+    "excerpt": "Découvrez la Riviera albanaise en automne. Un road trip de 220 km de Tirana à Himarë entre mer Ionienne et récolte des olives.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-road-trip-tirana-himare-olive-harvest.jpg",
+    "datePublished": "2026-10-04",
+    "readingTime": 3
+  },
+  {
+    "slug": "roadtrip-albanische-riviera-herbst-tirana-himare",
+    "lang": "de",
+    "groupId": "autumn-road-trip-tirana-himare-olive-harvest",
+    "title": "Roadtrip Albanische Riviera: Herbst von Tirana nach Himarë",
+    "excerpt": "Erleben Sie die albanische Riviera im Herbst. Ein 220 km langer Roadtrip vom Flughafen Tirana nach Himarë zur traditionellen Olivenernte.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-road-trip-tirana-himare-olive-harvest.jpg",
+    "datePublished": "2026-10-04",
+    "readingTime": 3
+  },
+  {
+    "slug": "ruta-en-coche-riviera-albanesa-otono-tirana-himare",
+    "lang": "es",
+    "groupId": "autumn-road-trip-tirana-himare-olive-harvest",
+    "title": "Ruta en coche por la Riviera Albanesa: Tirana a Himarë",
+    "excerpt": "Descubre la Riviera Albanesa en otoño. Ruta de 220 km desde Tirana hasta los olivos de Himarë con consejos prácticos de conducción.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-road-trip-tirana-himare-olive-harvest.jpg",
+    "datePublished": "2026-10-04",
+    "readingTime": 3
+  },
+  {
+    "slug": "udhetim-vjeshte-riviera-shqiptare-tirane-himare",
+    "lang": "sq",
+    "groupId": "autumn-road-trip-tirana-himare-olive-harvest",
+    "title": "Udhëtim Vjeshte në Rivierën Shqiptare: Tiranë‑Himarë",
+    "excerpt": "Zbuloni Rivierën Shqiptare në vjeshtë. Një udhëtim 220 km nga Aeroporti i Tiranës në Himarë, mes ullishteve dhe peizazheve të arta.",
+    "tag": "Travel",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-road-trip-tirana-himare-olive-harvest.jpg",
+    "datePublished": "2026-10-04",
+    "readingTime": 3
+  },
+  {
     "slug": "autumn-drive-ksamil-butrit-blue-eye",
     "lang": "en",
     "groupId": "autumn-drive-ksamil-butrint-blue-eye",
