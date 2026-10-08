@@ -1,5 +1,71 @@
 [
   {
+    "slug": "albanian-riviera-hidden-coves-autumn",
+    "lang": "en",
+    "groupId": "autumn-hidden-coves-albanian-riviera",
+    "title": "Albanian Riviera hidden coves autumn: a driving guide",
+    "excerpt": "Explore three off‑the‑beaten coves along Albania’s southern coast this autumn. Practical driving tips from Tirana airport to Himarë, Sarandë and beyond, with a…",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-hidden-coves-albanian-riviera.jpg",
+    "datePublished": "2026-10-08",
+    "readingTime": 3
+  },
+  {
+    "slug": "riviera-albanese-calette-nascoste-autunno",
+    "lang": "it",
+    "groupId": "autumn-hidden-coves-albanian-riviera",
+    "title": "Riviera Albanese in autunno: calette nascoste in auto",
+    "excerpt": "Scopri tre calette nascoste sulla costa sud dell'Albania in autunno. Consigli di guida da Tirana a Himarë e Sarandë con la giusta auto a noleggio.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-hidden-coves-albanian-riviera.jpg",
+    "datePublished": "2026-10-08",
+    "readingTime": 4
+  },
+  {
+    "slug": "criques-cachees-riviera-albanaise-automne",
+    "lang": "fr",
+    "groupId": "autumn-hidden-coves-albanian-riviera",
+    "title": "Criques secrètes de la Riviera albanaise en automne",
+    "excerpt": "Explorez trois criques sauvages du sud de l'Albanie cet automne. Conseils de conduite pratiques depuis l'aéroport de Tirana vers Himarë et Sarandë.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-hidden-coves-albanian-riviera.jpg",
+    "datePublished": "2026-10-08",
+    "readingTime": 4
+  },
+  {
+    "slug": "albanische-riviera-geheimtipps-bucht-herbst",
+    "lang": "de",
+    "groupId": "autumn-hidden-coves-albanian-riviera",
+    "title": "Albanische Riviera: Versteckte Buchten im Herbst",
+    "excerpt": "Entdecken Sie Albaniens unberührte Buchten im Herbst. Praktische Fahrtipps von Tirana nach Himarë, Sarandë und zu einsamen Stränden.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-hidden-coves-albanian-riviera.jpg",
+    "datePublished": "2026-10-08",
+    "readingTime": 3
+  },
+  {
+    "slug": "calas-escondidas-riviera-albanesa-otono",
+    "lang": "es",
+    "groupId": "autumn-hidden-coves-albanian-riviera",
+    "title": "Calas ocultas de la Riviera albanesa en otoño: guía en coche",
+    "excerpt": "Descubre calas secretas en el sur de Albania este otoño. Consejos de conducción desde el aeropuerto de Tirana a Himarë y Sarandë con coche de alquiler.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-hidden-coves-albanian-riviera.jpg",
+    "datePublished": "2026-10-08",
+    "readingTime": 4
+  },
+  {
+    "slug": "riviera-shqiptare-gjiret-e-fshehura-vjeshte",
+    "lang": "sq",
+    "groupId": "autumn-hidden-coves-albanian-riviera",
+    "title": "Gjiret e fshehura të Rivierës në vjeshtë: Udhëzues udhëtimi",
+    "excerpt": "Eksploroni tre gjire të fshehura në jug të Shqipërisë këtë vjeshtë. Këshilla praktike udhëtimi me makinë nga aeroporti i Tiranës në Himarë e Sarandë.",
+    "tag": "Guide",
+    "image": "https://raw.githubusercontent.com/enxhips5/autoconnect-blog/main/images/autumn-hidden-coves-albanian-riviera.jpg",
+    "datePublished": "2026-10-08",
+    "readingTime": 4
+  },
+  {
     "slug": "albanian-riviera-autumn-road-trip-tirana-himare-2024",
     "lang": "en",
     "groupId": "autumn-road-trip-tirana-himare-olive-harvest",
